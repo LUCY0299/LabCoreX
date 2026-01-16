@@ -1,0 +1,123 @@
+[
+  {
+    "id": 2,
+    "year": 2025,
+    "type": "Journal",
+    "title": "Transition Toward Smart Hospitals: A Scoping Review of Features, Technologies, and Challenges",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Health Science Reports",
+    "details": "8, 12",
+    "doi": null,
+    "tags": ["digital hospital", "digital transformation", "intelligent hospital", "smart hospital"]
+  },
+  {
+    "id": 3,
+    "year": 2024,
+    "type": "Journal",
+    "title": "From virtual to reality: The power of augmented reality in triggering impulsive purchases",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Journal of Retailing and Consumer Services",
+    "details": "76",
+    "doi": null,
+    "tags": ["Augmented reality", "Impulse buying", "Stimuli-organism-response"]
+  },
+  {
+    "id": 4,
+    "year": 2023,
+    "type": "Journal",
+    "title": "Semantic Technology and Anthropomorphism: Exploring the Impacts of Voice Assistant Personality on User Trust, Perceived Risk, and Attitude",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Journal of Global Information Management",
+    "details": "31, 1",
+    "doi": null,
+    "tags": ["Attitude Towards Use", "Personality", "Trust", "Voice Assistants"]
+  },
+  {
+    "id": 5,
+    "year": 2022,
+    "type": "Journal",
+    "title": "運用BERT深度學習模型於衛教謠言檢測之研究 A Study on Using BERT to Identify Health Care Rumors",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "資訊管理學報",
+    "details": "29, 1",
+    "doi": null,
+    "tags": ["BERT", "深度學習", "衛生教育", "謠言檢測", "BERT", "deep learning technique", "health education", "rumor detection"]
+  },
+  {
+    "id": 6,
+    "year": 2021,
+    "type": "Journal",
+    "title": "Conversational Service Experiences in Chatbots: A Perspective on Cognitive Load",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Journal of Global Information Management",
+    "details": "40, 1, 21-46",
+    "doi": null,
+    "tags": ["chatbot", "cognitive load", "conversational commerce", "interactive qualities", "stimulus-organism-response theory"]
+  },
+  {
+    "id": 7,
+    "year": 2020,
+    "type": "Journal",
+    "title": "An exploration of the impact of virtual reality interfaces on online shopping",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Information Resources Management Journal",
+    "details": "33, 2, 19-39",
+    "doi": null,
+    "tags": ["Human-Computer Interfaces", "Online shopping", "Technology Acceptance Model", "Uses and Gratifications theory", "Virtual Reality"]
+  },
+  {
+    "id": 8,
+    "year": 2019,
+    "type": "Journal",
+    "title": "網路口碑與產品銷售量之動態關係研究－以智慧型手機為例",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "管理評論",
+    "details": "38, 4, 105-117+33",
+    "doi": null,
+    "tags": [ "網路口碑", "銷售量", "價格", "品牌", "動態關係" ]
+  },
+  {
+    "id": 9,
+    "year": 2019,
+    "type": "Journal",
+    "title": "Visualising and mapping the intellectual structure of medical big data",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Journal of Information Science",
+    "details": "45, 2, 239-258",
+    "doi": null,
+    "tags": [ "Co-word analysis" , "informetrics" , "medical big data" , "strategic diagram" ]
+  },
+  {
+    "id": 10,
+    "year": 2018,
+    "type": "Journal",
+    "title": "Impact of absorptive capability on software process improvement and firm performance",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Information Technology and Management",
+    "details": "19, 1, 21-35",
+    "doi": null,
+    "tags": [ "Dynamic capability" , "Firm performance" , "Potential absorptive capability" , "Realized absorptive capability" , "Software process improvement (SPI) success" ]
+  },
+  {
+    "id": 11,
+    "year": 2023,
+    "type": "Conference",
+    "title": "Explainable AI supported Evaluation and Comparison on Credit Card Fraud Detection Models",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Conference",
+    "details": "86-91",
+    "doi": null,
+    "tags": [ "Credit Card Fraud Detection", "Imbalanced Classification", "Machine Learning", "SHAP", "Under-sampling" ]
+  },
+  {
+    "id": 12,
+    "year": 2008,
+    "type": "Conference",
+    "title": "Development of a patient-oriented tool for evaluating the quality of breast cancer information on the Internet",
+    "authors": "Wen-Chin, Hsu",
+    "venue": "Conference",
+    "details": "297-302",
+    "doi": null,
+    "tags": [ "Evaluation tool", "Feasibility", "Information quality", "Reliability", "Validity" ]
+  }
+]

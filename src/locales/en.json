@@ -1,0 +1,1012 @@
+{
+  "header": {
+    "logoAlt": "Wen-Chin Hsu Lab Logo",
+    "nav": {
+      "home": "Home",
+      "professor": "Professor",
+      "research": "Research",
+      "team": "Members",
+      "publications": "Publications",
+      "gallery": "Gallery",
+      "contact": "Contact",
+      "language": "中文"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 Wen-Chin Hsu Lab, Dept. of Information Management, NCU. All rights reserved."
+  },
+  "hero": {
+    "title": "Recruiting",
+    "subtitle": "Students interested in Healthcare IT, HCI, and Intelligent Services are welcome to join us."
+  },
+  "about": {
+    "title": "About Us",
+    "paragraph1": "The Wen-Chin Hsu Laboratory, part of the Department of Information Management at National Central University, is dedicated to the integration of information technology and human behavior research. We focus on exploring how innovative information systems can enhance healthcare management efficiency and conduct in-depth research on consumer behavior and intelligent service design within Human-Computer Interaction (HCI).",
+    "paragraph2": "Our lab brings together passionate members from diverse fields, with research interests spanning e-commerce, health information systems, and AI applications. We emphasize both theory and practice, aiming to develop more human-centric and intelligent information solutions that contribute value to digital society and the healthcare industry."
+  },
+  "news": {
+    "title": "Latest News",
+    "readMore": "Read More &rarr;",
+    "items": [
+      {
+        "id": 6,
+        "date": "2025-11-24",
+        "title": "NCU and Australia's TNQ Drought Hub Hold Joint Workshop to Build Global Climate Resilience",
+        "excerpt": "During the inaugural CESR forum, NCU hosted a joint workshop with the visiting TNQ Drought Hub delegation from Australia. By integrating NCU's satellite remote sensing technology with Australia's on-ground expertise, the two parties exchanged critical insights on drought monitoring and agricultural adaptation, laying a solid foundation for future transnational research collaboration.",
+        "url": "https://www.tnqdroughthub.com.au/drought-expertise-shared-on-the-global-stage-to-strengthen-climate-resilience/"
+        },
+      
+        {
+        "id": 7,
+        "date": "2025-12-05",
+        "title": "Center Delegation Attends EME2025 in Vietnam, Deepening Transnational Green Sustainability Cooperation",
+        "excerpt": "A delegation from the Center attended the 'EME2025 International Conference' hosted by VAST in Hanoi. Focusing on green development in Earth sciences, members exchanged insights on low-carbon strategies and digital transformation, actively expanding research networks in Southeast Asia to jointly address climate challenges.",
+        "url": "https://isdi.vast.vn/bantin/BanTinKHCN2025_12.pdf"
+        },
+      {
+        "id": 5,
+        "date": "2025-10-22",
+        "title": "[Research Achievement] RSETI: A New Drought Monitoring Index — Revealing 20 Years of Drought Spatiotemporal Trends in Australia",
+        "excerpt": "To more accurately track drought changes, Professor Liu Shuo-An, Chair of the Space and Remote Sensing Research Center at National Central University, led a team to develop a novel drought monitoring index — the Relative Surface Evapotranspiration Index (RSETI). The results were published in *Remote Sensing of Environment* and effectively address the common interference from outliers, improving the efficiency of drought monitoring...",
+        "url": "https://spec.ntu.edu.tw/research/research-detail271"
+      },
+      {
+        "id": 1,
+        "date": "2025-10-29",
+        "title": "[Call for Papers] The Impacts of Extreme Heat, Heatwaves, and Urban Heat Islands on Public Health: Vulnerability, Resilience, and Adaptation Strategies",
+        "excerpt": "This special issue addresses public health risks from extreme heat, heatwaves, and urban heat islands, focusing on vulnerable populations, health impacts, green infrastructure, and climate adaptation. Submission deadline: September 30, 2026, to *Earth’s Future* or *GeoHealth*.",
+        "url": "https://agupubs.onlinelibrary.wiley.com/hub/journal/24711403/homepage/call-for-papers/si-2025-001141"
+      },
+      
+      {
+        "id": 2,
+        "date": "2025-09-27",
+        "title": "CESR 2025 Open for Registration and Submissions",
+        "excerpt": "The official website for the first 'International Forum on Climate Extremes and Societal Resilience (CESR 2025)' is now open for registration and abstract submissions. The forum will be held from November 23-25(Mon,Tue), 2025, at National Central University, focusing on drought, heat stress, water resources...",
+        "url": "/icqab"
+      },
+      {
+        "id": 3,
+        "date": "2025-09-28",
+        "title": "Call for Papers: International Special Issue Edited by Prof. Yuei-An Liou",
+        "excerpt": "Prof. Yuei-An Liou from our research center is currently editing a special issue for the international journals Earth’s Future and GeoHealth on 'Impacts of Extreme Heat, Heatwaves, and Urban Heat Islands on Public Health: Vulnerability, Resilience, and Adaptation Strategies.' The call for papers is open until June 30, 2026. Researchers in related fields are cordially invited to submit...",
+        "url": "https://agupubs.onlinelibrary.wiley.com/hub/journal/24711403/homepage/call-for-papers/si-2025-001141"
+      },
+      {
+        "id": 4,
+        "date": "2025-09-30",
+        "title": "RSETI Index Released by the Center",
+        "excerpt": "Professor Yuei-An Liou’s research team has proposed the Relative Surface Evapotranspiration Index (RSETI), overcoming the limitations of existing remote sensing drought monitoring methods. The index successfully depicts the evolution of droughts in Australia from 2001 to 2022 and demonstrates its potential applications in agricultural management and climate adaptation. The results have been published in *Remote Sensing of Environment*.  ",
+        "url": "https://spec.ntu.edu.tw/research/research-detail271"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Us",
+    "centerName": "NCU Center for Taiwan and Global Drought Research",
+    "addressLabel": "Address:",
+    "addressLinkText": "Center for Space and Remote Sensing Research, National Central University",
+    "addressValue": "320317, No. 300, Zhongda Rd., Zhongli District, Taoyuan City, Taiwan",
+    "phoneLabel": "Phone:",
+    "phoneValue": "(03) 422-7151 ext. 57697 / 57689",
+    "faxLabel": "Fax:",
+    "faxValue": "(03) 425-5535",
+    "emailLabel": "Email:"
+  },
+  "pageBanner": {
+    "defaultTitle": "Page Title"
+  },
+  "research": {
+    "bannerTitle": "Research Areas",
+    "mainTitle": "Core Research Directions",
+    "description": "Our laboratory integrates information technology, management science, and behavioral science to address critical issues in healthcare and digital services. Through empirical research and system design, we explore optimal modes of human-technology interaction.",
+    "keywordsTitle": "Keywords",
+    "areas": [
+      {
+        "icon": "fas fa-heartbeat fa-3x text-primary",
+        "title": "Healthcare IT Management",
+        "description": "Exploring how to use IT to optimize medical processes and enhance patient care quality and institutional efficiency.",
+        "keywords": [
+          "Health Information Systems",
+          "Digital Health",
+          "Telecare",
+          "Medical Big Data"
+        ]
+      },
+      {
+        "icon": "fas fa-shopping-cart fa-3x text-primary",
+        "title": "E-commerce",
+        "description": "Researching business model innovation under digital transformation and consumer decision-making in online environments.",
+        "keywords": [
+          "Digital Marketing",
+          "Platform Economy",
+          "Social Commerce",
+          "Digital Transformation"
+        ]
+      },
+      {
+        "icon": "fas fa-mouse-pointer fa-3x text-primary",
+        "title": "Human-Computer Interaction",
+        "description": "Focusing on UX design, researching interactive behavior, usability, and psychological perceptions between humans and systems.",
+        "keywords": [
+          "UI Design",
+          "Eye Tracking",
+          "Affective Computing",
+          "Usability"
+        ]
+      },
+      {
+        "icon": "fas fa-user-friends fa-3x text-primary",
+        "title": "Consumer Behavior",
+        "description": "Using behavioral science to analyze motivations and preferences when users adopt and use new technologies.",
+        "keywords": [
+          "TAM",
+          "Online Trust",
+          "User Engagement",
+          "Adoption Behavior"
+        ]
+      },
+      {
+        "icon": "fas fa-robot fa-3x text-primary",
+        "title": "Intelligent Services",
+        "description": "Integrating AI to develop predictive, personalized, and proactive intelligent service systems.",
+        "keywords": [
+          "AI Applications",
+          "Chatbots",
+          "Recommender Systems",
+          "Smart Living"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "bannerTitle": "Members",
+    "expertiseTitle": "Expertise",
+    "readMore": "READ MORE",
+    "categories": [
+      {
+        "title": "Ph.D. Students",
+        "members": [
+           {
+             "name": "Ph.D. Student 1",
+             "image": "somebody.jpg",
+             "title": "Ph.D. Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Ph.D. Student 2",
+             "image": "somebody.jpg",
+             "title": "Ph.D. Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Ph.D. Student 3",
+             "image": "somebody.jpg",
+             "title": "Ph.D. Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Master Students",
+        "members": [
+          {
+            "name": "Hui-Wen Cheng (鄭惠文)",
+            "image": "CMaster/grade2/鄭惠文Cheng_Hui_Wen.jpg",
+            "title": "Master Student",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Angelson Chen (陳秉謙)",
+            "image": "CMaster/grade2/Angelson 陳秉謙.jpg",
+            "title": "Master Student",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Hsin-Ping Wu (吳心平)",
+            "image": "CMaster/grade1/吳心平Aimee.jpg",
+            "title": "Master Student",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Chih-Jung Li (李芝瑢)",
+            "image": "CMaster/grade1/李芝瑢Julie.jpg",
+            "title": "Master Student",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Undergraduate Students",
+        "members": [
+           {
+             "name": "Undergraduate 1",
+             "image": "somebody.jpg",
+             "title": "Undergraduate",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Undergraduate 2",
+             "image": "somebody.jpg",
+             "title": "Undergraduate",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Undergraduate 3",
+             "image": "somebody.jpg",
+             "title": "Undergraduate",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Visiting Students",
+        "members": [
+           {
+             "name": "Visiting Student 1",
+             "image": "somebody.jpg",
+             "title": "Visiting Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Visiting Student 2",
+             "image": "somebody.jpg",
+             "title": "Visiting Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Visiting Student 3",
+             "image": "somebody.jpg",
+             "title": "Visiting Student",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Past Members",
+        "members": [
+           {
+             "name": "Alumni 1",
+             "image": "somebody.jpg",
+             "title": "Alumni",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Alumni 2",
+             "image": "somebody.jpg",
+             "title": "Alumni",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Alumni 3",
+             "image": "somebody.jpg",
+             "title": "Alumni",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": {
+    "bannerTitle": "Reports",
+    "publications": [
+      {
+        "year": 2025,
+        "papers": [
+          {
+            "title": "Characterizing the antecedent rainfall and ATI-MODIS-derived soil moisture content of shallow landslides in Taiwan.",
+            "authors": "Liou, Y.-A., Lin, J.-J.*",
+            "journal": "Landslides",
+            "details": "pp. 1-36",
+            "doi": "https://doi.org/10.1007/s10346-025-02495-x",
+            "tags": [
+              "SCI",
+              "IF: 5.800",
+              "RF: 20/254",
+              "Geosciences, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "The role of spectro-temporal remote sensing in vegetation classification: A comprehensive review integrating machine learning and bibliometric analysis.",
+            "authors": "Rehman, A. U., Raziq, A., Shrestha, B., Nguyen, K. A., & Liou, Y.-A.*",
+            "journal": "Computers and Electronics in Agriculture",
+            "details": "Vol. 234, 110184",
+            "doi": "https://doi.org/10.1016/j.compag.2025.110184",
+            "tags": [
+              "SCI",
+              "IF: 7.700",
+              "RF: 2/89",
+              "Agriculture, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "Enhancing Evacuation Shelter Suitability in Compound Hazard-Prone Regions with a Bayesian Optimized Convolutional Neural Network Approach.",
+            "authors": "Bera, S., Talukdar, S., Nguyen, K. A., Liou, Y. A.*, Guru, B., Chatterjee, R., & Ramana, G. V.",
+            "journal": "International Journal of Disaster Risk Reduction",
+            "details": "Vol. 119, 105306",
+            "doi": "https://doi.org/10.1016/j.ijdrr.2025.105306",
+            "tags": [
+              "SCI",
+              "IF: 4.200",
+              "RF: 34/254",
+              "Geosciences, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "Surface Water Availability-Temperature Index (SWATI) for Global Drought Monitoring.",
+            "authors": "Thai, M.-T., Liou, Y.-A.*",
+            "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+            "details": "Vol. 63, pp. 1-14, Art no. 4403714",
+            "doi": "https://doi.org/10.1109/TGRS.2025.3541287",
+            "tags": [
+              "SCI",
+              "IF: 7.500",
+              "RF: 25/352",
+              "Remote Sensing"
+            ]
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "papers": [
+          {
+            "title": "Comprehensive drought risk assessment and mapping in Taiwan: An ANP-ANN ensemble approach.",
+            "authors": "Liou, Y.-A.*, Vo, T.-H., Tran, D.-P., & Bui, H.-A.",
+            "journal": "Science of the Total Environment",
+            "details": "175835",
+            "doi": "https://doi.org/10.1016/j.scitotenv.2024.175835",
+            "tags": [
+              "SCI",
+              "IF: 8.200",
+              "RF: 31/358",
+              "Environmental Sciences"
+            ]
+          },
+          {
+            "title": "Comparative analysis of machine learning models for tropical cyclone intensity estimation.",
+            "authors": "Liou, Y.-A.*, Le, T.-V.",
+            "journal": "Remote Sensing",
+            "details": "16, 3138",
+            "doi": "https://doi.org/10.3390/rs16173138",
+            "tags": [
+              "SCI",
+              "IF: 4.200",
+              "RF: 34/253",
+              "Remote Sensing"
+            ]
+          },
+          {
+            "title": "Revealing the intricate relationship: Droughts and typhoons in Taiwan using the Standardized Precipitation Index (SPI).",
+            "authors": "Le, T.-V. and Y.-A. Liou*, and K.-A. Nguyen",
+            "journal": "Journal of Hydrology: Regional Studies",
+            "details": "Volume 55, 101917",
+            "doi": "https://doi.org/10.1016/j.ejrh.2024.101917",
+            "tags": [
+              "SCI",
+              "IF: 4.7",
+              "RF: 17/127",
+              "Water Resources"
+            ]
+          },
+          {
+            "title": "Assessing the impacts of temperature extremes on agriculture yield and projecting future extremes using machine learning and deep learning approaches with CMIP6 data.",
+            "authors": "Khan, F., Y.-A. Liou*, G. Spöck, X. Wang, S. Ali",
+            "journal": "International Journal of Applied Earth Observation and Geoinformation",
+            "details": "132, 104071",
+            "doi": "https://doi.org/10.1016/j.jag.2024.104071",
+            "tags": [
+              "SCI",
+              "IF: 7.600",
+              "RF: 6/62",
+              "Remote Sensing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "conferenceList": {
+    "bannerTitle": "Conference Archive",
+    "buttonText": "View Conference",
+    "items": [
+      {
+        "year": "2025",
+        "title": "The First International Forum on Climate Extremes and Societal Resilience (CESR 2025)",
+        "date": "November 22-24, 2025",
+        "location": "Taoyuan, Taiwan",
+        "description": "Drought, Heat Stress, and Human Livability in a Warming World",
+        "link": "/icqab",
+        "image": "carousel/cesr_pic1.jpg"
+      }
+    ]
+  },
+  "conference": {
+    "header": {
+      "date": "November 22-24, 2025 | National Central University, Taoyuan, Taiwan",
+      "title": "The First International Forum on Climate Extremes and Societal Resilience:<br>Drought, Heat Stress, and Human Livability in a Warming World",
+      "subtitle": "(CESR 2025)"
+    },
+    "registration": {
+      "title": "Conference Registration & Contact Info",
+      "description": "Welcome to register online for CESR 2025. Click the button below or scan the QR code on the right to proceed to the registration page. If you have any questions, please feel free to contact us.",
+      "button_register": "Online Registration",
+      "button_inquiry": "Registration Inquiry Form",
+      "contact_title": "Contact Person",
+      "qr_alt": "Registration QR Code",
+      "qr_caption": "Scan QR Code to Register"
+    },
+    "online_participation": {
+      "title": "Online Participation Link",
+      "description": "Welcome to participate in CESR 2025 online. Please click the link below at the meeting time to enter the virtual meeting room.",
+      "button_link": "Enter Online Meeting"
+    },
+    "venue": {
+      "title": "Venue & Location",
+      "main_hall_title": " Center for Space and Remote Sensing Research, National Central University",
+      "host_by": "Hosted by:",
+      "co_hosted_by": "Co-hosted by:",
+      "advised_by": "Organized under the auspices of:",
+      "surroundings_map": "Surroundings Map",
+      "campus_map": "Campus Map"
+    },
+    "info": {
+      "registration": {
+        "url": "https://forms.gle/LfjM1nqKa47ufQvG6",
+        "inquiryUrl": "https://forms.gle/VtF3gfEKZMBKY6pr8"
+      },
+      "location": {
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.958075318055!2d121.18223309678957!3d24.967540999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346823c26571829b%3A0x4405dd3d60240444!2z5Lit5aSu5aSn5a245aSq56m65Y-K6YGZ5ris56CU56m25Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1761738883357!5m2!1szh-TW!2stw"
+      },
+      "host": {
+        "venue": "National Central University",
+        "hosts": [
+          {
+            "name": "Taiwan and Global Drought Investigation and Research Center (TGDIRC / DroughtHub)",
+            "logo": "DroughtHub.jpg",
+            "alt": "DroughtHub Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "coHosts": [
+          {
+            "name": "Department of environmental protection, Taoyuan City Government",
+            "logo": "桃園市環保局.png",
+            "alt": "Taoyuan EPB Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Taiwan Group on Earth Observations (TGEO)",
+            "logo": "tgeo_logo.png",
+            "alt": "TGEO Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "The Institution of Engineering and Technology (IET) – Taipei Local Network",
+            "logo": "IET_Logo.png",
+            "alt": "IET Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "advisors": [
+          {
+            "name": "National Central University (NCU)",
+            "logo": "logo.png",
+            "alt": "NCU Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": " Taoyuan City Government ",
+            "logo": "桃園市.png",
+            "alt": "桃園市政府 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "National Science and Technology Council",
+            "logo": "nstc_logo.png",
+            "alt": "NSTC Logo",
+            "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Ministry of Agriculture ",
+            "logo": "agriculture_logo.jpg",
+            "alt": "農業部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Ministry of Education",
+            "logo": "教育部.png",
+            "alt": "教育部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          }
+        ]
+      }
+    },
+    "sections": [
+      {
+        "title": "Important Dates",
+        "content": "<div><ul class=\"styled-list\"><li><b>Abstract submission deadline:</b> October 22, 2025</li><li><b>Notification of abstract acceptance:</b> November 18, 2025</li><li><b>Registration Deadline:</b> November 20, 2025</li><li><b>Conference date:</b> November 23-25 ,2025, with registration beginning on November 22.</li></ul></div>"
+      },
+      {
+        "title": "Introduction",
+        "content": "<p>The Taiwan and Global Drought Information and Research Center (TGDIRC / DroughtHub), established in 2024 and led by the Center for Space and Remote Sensing Research at National Central University, is dedicated to integrating research and development for global drought monitoring, early warning systems, and adaptation strategies. The core mission of the center is to address the increasingly severe challenges of global climate change, particularly the profound impacts of extreme climate events like droughts and heat stress on human society.</p><p>The Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) clearly states that global warming will lead to more frequent and severe drought events. It is projected that by 2050, over 5 billion people worldwide will face water shortages. As a high-risk region for climate change, Taiwan has deeply experienced this trend in recent years: the centennial drought in 2021 caused a nationwide water supply crisis with economic losses exceeding NT$100 billion; the record-breaking extreme heat events in 2023 not only impacted the energy system but also directly threatened public health and quality of life.</p><p>In the face of these unprecedented challenges, the efforts of a single country or institution are no longer sufficient. The international scientific community widely recognizes that only through cross-border, interdisciplinary collaborative research and knowledge sharing can effective solutions be developed. TGDIRC was established against this backdrop, aiming to build an integrated international research platform.</p><p>Since its inception, TGDIRC has actively established cooperative relationships with top international institutions such as the National Drought Mitigation Center (NDMC) in the United States, the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia, and the European Climate Adaptation Platform. It also participates in relevant initiatives from the United Nations Office for Disaster Risk Reduction (UNDRR) and the World Meteorological Organization (WMO). At the same time, the center has established research partnerships with countries in the Asia-Pacific region facing similar challenges, including Japan, South Korea, Australia, India, and Vietnam.</p><p>To establish a permanent international academic exchange and policy dialogue platform that gathers the wisdom of top global experts in climate extremes, societal resilience, and human livability, TGDIRC has specially planned the first “International Forum on Climate Extremes and Societal Resilience.” This forum aims to become a major annual event in the field of climate science in the Asia-Pacific region and globally, establishing a long-term mechanism for promoting international cooperation, fostering knowledge innovation, and strengthening the scientific basis for policymaking.</p><p>Through this forum, we hope not only to showcase Taiwan's strength and international contributions in the field of climate science research but also to provide innovative solutions for the global community to face the challenges of climate change, working together to maintain a livable environment for humanity in a warming world."
+      },
+      {
+        "title": "Objectives",
+        "content": "<p>This forum is committed to developing the world's most influential research exchange platform on climate extremes and societal resilience, bringing together top interdisciplinary expert wisdom to provide innovative solutions for human sustainability in a warming world. The conference will be held in-person, emphasizing deep face-to-face exchanges and the development of collaborative networks. Paper submissions will use an English abstract system to ensure a high degree of integration in international academic exchange.</p><p>The forum focuses on core issues such as drought monitoring and early warning, health impacts of heat stress, water resource security, agricultural resilience, ecosystem adaptation, energy system stability, urban climate governance, and disaster risk management, aiming to establish a complete knowledge chain from scientific research to policy implementation. Based on TGDIRC's founding mission to \"promote global climate resilience and safeguard a livable future for humanity,\" this forum has the following strategic objectives and core values:</p><ol><li><b>Leading Global Climate Science</b><br>Special emphasis is placed on integrating cutting-edge technologies like artificial intelligence, satellite remote sensing, and big data analytics to establish a next-generation, long-term, and real-time climate monitoring and early warning system. We invite top global scientists to jointly explore the theoretical and practical optimization of these systems. By promoting forward-looking practical technology applications and deep dialogue with theory, we aim to set a new benchmark for global research on climate extremes, transitioning from a follower to a leader in scientific innovation. We will shift from responding to challenges to predicting them and establishing diverse solutions.</li><li><b>Building an International Scientific Research Ecosystem</b><br>Taiwan holds a unique geographical and research advantage in climate studies. This forum will connect with the international academic community to establish interdisciplinary strategic partnerships, making Taiwan a hub for climate science in the Asia-Pacific region. Through the TGDIRC platform, we will deepen strategic partnerships with top research institutions in the US, Europe, and Australia, establish a permanent global expert network, promote long-term research cooperation, and encourage dialogue between young scholars and the international community. The goal is to shape Taiwan into a bridge for knowledge and policy exchange in global climate governance and to enhance Taiwan's voice and influence on international climate governance issues.</li><li><b>Enhancing National Climate Resilience</b><br>Establish a complete transformation mechanism from \"science → policy → practice,\" effectively translating scientific results into practical policy recommendations and assisting the government in implementing them in society and industry. Provide the government with forward-looking climate adaptation strategies, shifting from reactive responses to proactive prevention. When future climate change disasters occur, Taiwan can transform from being merely a victim to a solution provider, becoming a model case for global climate resilience governance.</li><li><b>Promoting the Realization of Sustainable Development Goals</b><br>Closely align with the UN 2030 Agenda for Sustainable Development, particularly addressing SDG 6 (Clean Water and Sanitation), SDG 11 (Sustainable Cities and Communities), SDG 13 (Climate Action), and SDG 15 (Life on Land). Propose breakthrough solutions in areas such as water resources, urban resilience, climate change response, and environmental protection to ensure that the conference outcomes have a substantial impact on the sustainable development agenda and demonstrate Taiwan's tangible contribution to global sustainable development.</li><li><b>Catalyzing Interdisciplinary Innovation and Integration</b><br>Solving climate challenges relies not only on in-depth exploration within a single discipline. By breaking traditional disciplinary boundaries, we will promote deep integration between climate science, public health, sociology, economics, and engineering technology. We will cultivate a new generation of climate experts with systemic thinking, foster new frontiers of research knowledge and innovative policy strategic frameworks, and drive solutions from single-point breakthroughs to systemic innovation.</li><li><b>Establishing a Global Knowledge Sharing Mechanism</b><br>Create an open international research platform to incentivize cross-national research team exchanges and collaboration. Promote data sharing, technology transfer, and talent exchange to ensure that climate science research results can be rapidly transformed into global public welfare, allowing scientific knowledge to truly serve the construction of a community with a shared future for mankind.</li></ol>"
+      },
+      {
+        "title": "Expected Impacts",
+        "content": "<ol><li><b>Constructing a Global Climate Resilience Research Ecosystem</b><br>Deepen strategic partnerships between Taiwan and top global climate research institutions, including the US National Drought Mitigation Center, the European Climate Adaptation Platform, and Australia's CSIRO, to establish a permanent international expert network. The forum platform is expected to initiate at least 5 major international cooperation projects, making Taiwan a core hub for climate extreme event research in the Asia-Pacific region and significantly enhancing our country's voice and influence in international climate science.</li><li><b>Catalyzing Breakthroughs in Interdisciplinary Innovative Research</b><br>Through in-depth group discussions on eight core themes (drought monitoring and early warning, health impacts of heat stress, water resource resilience, agricultural adaptation, ecosystem protection, energy security, urban climate governance, and disaster risk management), we will break traditional disciplinary boundaries. This will promote innovative integration between climate science and fields like public health, sociology, economics, and artificial intelligence. We anticipate generating over 10 breakthrough interdisciplinary research proposals, providing original Taiwanese solutions to global climate challenges.</li><li><b>Enhancing National Climate Adaptation Governance Capacity</b><br>Focusing on the dual threats of drought and heat stress faced by Taiwan, the forum will conduct in-depth discussions on key issues such as the establishment of early warning systems, smart water resource management, urban heat island mitigation, agricultural resilience enhancement, and health protection mechanisms. By establishing a complete transformation mechanism from \"science → policy → practice,\" we will provide the government with forward-looking and actionable climate adaptation strategies. This is expected to reduce socioeconomic losses from extreme climate events by over 30% and develop Taiwan into a model case for global climate resilience governance.</li><li><b>Boosting International Academic Impact</b><br>Establish a rigorous international peer-review mechanism and compile a \"Special Issue on Climate Extremes and Societal Resilience,\" meeting the standards of top international journals. Outstanding research results will be recommended for publication in high-impact journals, with an expectation of producing 5 or more SCI papers with a total impact factor exceeding 10. Simultaneously, an annual TGDIRC report mechanism will be established to serve as an important reference for global climate policymaking, significantly enhancing the international academic standing and practical impact of Taiwan's climate science research.</li><li><b>Cultivating Next-Generation Climate Science Leaders</b><br>Provide opportunities for graduate students and young scholars from home and abroad to engage in deep exchanges with top international experts, establishing a global talent cultivation network. The \"Young Scholar Best Paper Award\" and \"International Exchange Scholarship\" will be established to support outstanding talent for cooperative research abroad for six months or more. We expect to cultivate over 50 climate experts with an international perspective and systemic thinking, laying a solid talent foundation for the long-term development of climate science in Taiwan.</li><li><b>Establishing a Sustainable Knowledge Sharing Mechanism</b><br>Construct an open online research platform to promote the real-time sharing of global climate data, monitoring technologies, and adaptation strategies. Establish a TGDIRC digital knowledge base to house research findings related to global drought and heat stress, becoming a vital resource center for the international climate science community. Through the regular publication of the \"Global Climate Extreme Events Monitoring Report,\" we will provide scientific decision support to international organizations such as the United Nations and the World Bank, demonstrating Taiwan's substantial contribution to global climate governance.</li></ol>"
+      },
+      {
+        "title": "Conference Themes",
+        "content": "<ul class=\"themes-list\"><li class=\"accent-box\"><h4>Theme 1: Drought Monitoring and Early Warning Technologies</h4><p>Drought is one of the most destructive natural disasters globally, with impacts spanning agricultural production, water resource management, and energy supply, potentially causing huge damage to ecosystem stability and socioeconomic development. As extreme climate change leads to drastic environmental shifts, the frequency and intensity of drought events are gradually increasing. Establishing systematic and scientific drought monitoring and early warning technologies has become an urgent international research and policy need. This theme will focus on the integration and application of multi-source data, including satellite monitoring, ground observation networks, and climate change simulations, to enhance real-time monitoring and prediction capabilities of the drought development process.<br>Topics will include, but are not limited to:<br>1. Innovative applications of monitoring technologies<br>2. Design, comparison, and improvement of drought indices<br>3. Application of AI and big data analytics in drought monitoring and early warning<br>4. Establishment of cross-regional drought monitoring platforms and decision support systems<br>5. Methods for assessing drought impacts on agriculture and ecosystems<br>6. Climate model simulation and drought event prediction</p></li><li class=\"accent-box\"><h4>Theme 2: Urban Heat Island Effect and Climate Adaptation</h4><p>Rapid urbanization and intensifying global warming have made the Urban Heat Island (UHI) effect a major challenge for densely populated areas, as it exacerbates energy demand, strains infrastructure, and affects residents' health and social safety. This theme focuses on the causes of the UHI effect, monitoring technologies, and multi-level adaptation strategies, aiming to establish a comprehensive response that integrates scientific foundations, engineering techniques, and social governance.<br>Topics will include, but are not limited to:<br>1. Mechanisms and driving factors of the UHI effect<br>2. Application of digital technologies in urban heat monitoring<br>3. Urban climate simulation and heatwave impact prediction models<br>4. The role of smart city technologies in cooling and energy conservation<br>5. Effectiveness evaluation of urban renewal and land use planning in mitigating the UHI effect<br>6. Sustainable development through the combination of digital technology and green architecture</p></li><li class=\"accent-box\"><h4>Theme 3: Climate Policy, Water Resource Management, and Societal Resilience</h4><p>Climate change is drastically affecting the stability of the water cycle system, with water resource issues becoming increasingly severe due to droughts, floods, and environmental pollution. How to enhance societal resilience and adaptability through forward-looking climate policies and effective water resource management has become a crucial issue for all nations. This theme will focus on interdisciplinary governance and collaboration among multiple stakeholders, addressing policy, management, and social innovation to establish a fair and sustainable water resource governance framework.<br>Topics will include, but are not limited to:<br>1. Water resource governance policies and institutional design under climate change; interdisciplinary resilience integrating hydrology, public policy, economics, and sociology<br>2. Cooperative mechanisms for trans-basin or transnational water resource management<br>3. Application of smart water grids, IoT, and AI in water resource regulation<br>4. Adaptation strategies involving groundwater development, reclaimed water use, and non-conventional water resources<br>5. Water resource risk management and social equity<br>6. Resilience assessment and decision support methods for water resources in the face of extreme droughts and floods</p></li><li class=\"accent-box\"><h4>Theme 4: Health Impacts of Climate Change</h4><p>Climate change has become one of the most severe public health challenges of the 21st century. Extreme heat, droughts, water shortages, and other extreme weather events are directly or indirectly threatening human health and social development. Climate impacts lead to issues such as heatstroke, cardiovascular diseases, the spread of infectious diseases, and deteriorating food and nutrition security, exacerbating health inequalities and placing vulnerable populations at higher risk, which can cause potential fluctuations and impacts on social stability. This theme focuses on scientific research, health risk assessment, and policy implementation, soliciting interdisciplinary research findings and case studies to promote the development of health-oriented climate adaptation strategies.<br>Topics will include, but are not limited to:<br>1. Impact assessment of high temperatures and heatwaves on cardiovascular and respiratory diseases<br>2. Climate change and the epidemiology of infectious diseases<br>3. Research on mental health and social stress under climate impacts<br>4. Building the climate resilience of healthcare systems<br>5. The relationship between climate change and public health management risks<br>6. Application of protective measures for vulnerable populations' health</p></li><li class=\"accent-box\"><h4>Theme 5: Economic Impact Assessment of Extreme Climate Events</h4><p>Extreme climate events such as droughts, floods, heatwaves, and hurricanes not only cause direct damage to infrastructure and production systems but also have profound economic impacts through supply chain disruptions, energy price volatility, labor losses, and rising insurance costs. Quantifying and assessing these impacts, and further proposing specific financial, policy, and market response measures, is a crucial foundation for enhancing societal resilience. This thematic session focuses on the economic risk assessment and adaptation strategies for diverse industries, production supply chains, and market environments under extreme climate conditions.<br>Topics will include, but are not limited to:<br>1. Disaster risk models, actuarial science, and reinsurance mechanism design<br>2. The impact of climate events on energy markets, agricultural output, and supply chains<br>3. Economic risk assessment within the ESG framework<br>4. Economic vulnerability and adaptation strategies for SMEs and local communities facing extreme climate events<br>5. The impact of climate migration and population displacement on labor markets and local economies<br>6. Resilience and recovery of urban, community, or market environments under climate impacts</p></li></ul>"
+      },
+      {
+        "title": "Conference Information",
+        "isStructured": true,
+        "content": {
+          "intro": "2025 International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World <br>1st International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World",
+          "details": [
+            {
+              "label": "Conference Dates",
+              "value": "November 22 (Sunday) – November 24 (Tuesday), 2025"
+            },
+            {
+              "label": "Venue",
+              "value": "Center for Space and Remote Sensing Research, National Central University"
+            },
+            {
+              "label": "Advisors",
+              "value": "National Central University (NCU)<br>Taoyuan City Government<br>National Science and Technology Council (NSTC)"
+            },
+            {
+              "label": "Organizer",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "Taiwan and Global Drought Investigation and Research Center (TGDIRC / DroughtHub)",
+                  "logo": "DroughtHub.jpg",
+                  "alt": "DroughtHub Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Co-organizers",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "Department of environmental protection, Taoyuan City Government",
+                  "logo": "桃園市環保局.png",
+                  "alt": "Taoyuan EPB Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Taiwan Group on Earth Observations (TGEO)",
+                  "logo": "tgeo_logo.png",
+                  "alt": "TGEO Logo",
+                  "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "The Institution of Engineering and Technology (IET) – Taipei Local Network",
+                  "logo": "IET_Logo.png",
+                  "alt": "IET Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Organized under the auspices of:",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "National Central University (NCU)",
+                  "logo": "logo.png",
+                  "alt": "NCU Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Taoyuan City Government",
+                  "logo": "桃園市.png",
+                  "alt": "桃園市政府 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "National Science and Technology Council",
+                  "logo": "nstc_logo.png",
+                  "alt": "NSTC Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Ministry of Agriculture",
+                  "logo": "agriculture_logo.jpg",
+                  "alt": "農業部 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Conference Chairs",
+              "value": "Chair Professorship. Yuei-An Liou"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Speakers",
+        "content": "<h3 class=\"speakers-subtitle\">Plenary Session Speakers</h3><ul class=\"styled-list\"><li><a href=\"https://cee.mit.edu/people_individual/dara-entekhabi/\" target=\"_blank\"><b>Dara Entekhabi</b></a><br><p><b>Professor / Fellow</b><br>Professor, M.I.T. & Fellow of the National Academy of Engineering (NAE)<br>Expertise: Remote Sensing Earth Science, Land-Atmosphere Interaction, Hydrological Modeling, Surface Water-Groundwater Interaction</p><div class=\"accent-box\"><h4>Presentation: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</h4></div><div class=\"accent-box\"><h4>Presentation: The Drought Cascade and Drought Amplification Due to Heat Waves</h4></div></li><li><a href=\"https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/takashi_oguchi/\"><b>Takashi Oguchi</b></a><br><p><b>Professor / President</b><br> Professor at the University of Tokyo<br> Currently serves as Vice President of the International Association of Geomorphologists (IAG), Vice President of the Japan Geoscience Union (JpGU), and President of the Association of Japanese Geographers<br> Former President of the Japan Society of Geomorphology and the Japan Society for Geographical Information Systems<br> Renowned for profound expertise and international influence in geomorphology and spatial information sciences <div class=\"accent-box\"> <h4>Presentation: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</h4></div></li><li><a href=\"https://www.gcrf-agriplastics.uk/project-team/vietnam/\" target=\"_blank\"><b>Trần Minh Tiến</b></a><br><p><b>Vice President / Professor</b><br>Vice President of the Vietnam Academy of Agricultural Sciences (VAAS)<br>This forum is part of the “DroughtHub Drought Resilience Research Program.”<br>Professor Tiến will lead a delegation to participate in bilateral meetings and academic exchanges, focusing on collaborative research in drought adaptation and agricultural innovation.</p><div class=\"accent-box\"><h4>Presentation: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</h4></div></li><li><a href=\"https://engineering.virginia.edu/faculty/venkataraman-lakshmi\" target=\"_blank\"><b>Venkataraman (Venkat) Lakshmi</b></a><br><p><b>Chair Professor / President</b><br>John L. Newcomb Chair Professor, University of Virginia<br>President, Hydrology Section, American Geophysical Union (AGU)<br>Expertise: Hydrological Remote Sensing, Climate Change Impact Assessment</p><div class=\"accent-box\"><h4>Presentation: Observing hydrological extremes from space</h4></div></li><li><a href=\"https://ap.fftc.org.tw/author/2216\" target=\"_blank\"><b>Ngo Duc Minh</b></a><br><p><b>Principal Researcher</b><br>Vietnam Academy of Agricultural Sciences(VAAS)<br>Expertise: Soil science, climate-smart agriculture, low-carbon and organic farming, and sustainable agri-food systems</p><div class=\"accent-box\"><h4>Presentation: Current Status of National Policy of Soil Health Governance in Vietnam</h4></div></li><li><a href=\"https://sciprofiles.com/profile/996709\" target=\"_blank\"><b>Swapan Talukdar</b></a><br><p><b>Assistant Professor</b><br>Asutosh College, University of Calcutta<br>Expertise: Environmental Sustainability, Water Resource Management, Remote Sensing, AI/ML Applications</p><div class=\"accent-box\"><h4>Presentation: Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</h4></div></li><li><a href=\"https://tiss.ac.in/view/9/employee/praveen-kumar/\" target=\"_blank\"><b>Praveen Kumar</b></a><br><p><b>Assistant Professor</b><br>Tata Institute of Social Sciences, Mumbai, India<br>Expertise: Social-Ecological Systems, Climate Change Vulnerability and Adaptation, Climate Risk</p><div class=\"accent-box\"><h4>Presentation: Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</h4></div></li><li><a href=\"https://ucentralasia.org/faculty-and-staff/dr-ben-jarihani\" target=\"_blank\"><b>Ben Jarihani</b></a><br><p><b>Associate Professor</b><br>James Cook University, Australia<br>Expertise: Hydrology, Remote Sensing and GIS, Watershed Modeling, Natural Resource Management</p><div class=\"accent-box\"><h4>Presentation: Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</h4></div></li><li><a href=\"https://au.linkedin.com/in/lisa-law-48739191\" target=\"_blank\"><b>Lisa Law</b></a><br><p><b>Associate Professor</b><br>James Cook University, Australia<br>Expertise: Urban Studies in Southeast Asia and Tropical Australia, Livability, Place-based Urban Design</p><div class=\"accent-box\"><h4>Presentation: Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</h4></div></li><li><a href=\"https://scholar.google.com/citations?user=f_NFqRgAAAAJ&hl=en\" target=\"_blank\"><b>Rafael Cabral Carvalho</b></a><br><p><b>Lecturer</b><br>James Cook University, Australia<br>Expertise: Coastal geomorphology, sedimentology, and marine geospatial analysis</p><div class=\"accent-box\"><h4>Presentation: Droughts and deltas: an Earth Science perspective on climate change, societal development</h4></div></li><li><a href=\"https://www.yunuscenterait.org/aboutdrfaiz\" target=\"_blank\"><b>Faiz Shah</b></a><br><p><b>Executive Director</b><br>Yunus Centre, Asian Institute of Technology, Thailand<br>Expertise: Social Enterprise, Sustainable Development, Corporate Responsibility, Grassroots Innovation Empowerment</p><div class=\"accent-box\"><h4>Presentation: Social Business as a lever for Climate Resilience</h4></div></li><li><a href=\"https://kzzl.urk.edu.pl/pracownicy/piotrwezyk-4.html\" target=\"_blank\"><b>Piotr Wezyk</b></a><br><p><b>Professor</b><br>University of Agriculture in Krakow, Poland<br>Expertise: LiDAR Scanning and Remote Sensing Applications, Urban and Economic Forest Management, Spatio-temporal GIS Analysis, Urban Green Space Ecosystem Services</p><div class=\"accent-box\"><h4>Presentation: Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</h4></div></li><li><a href=\"https://vneat.org/?page_id=286&utm_source=chatgpt.com&lang=en\" target=\"_blank\"><b>Nguyen Kim Anh</b></a><br><p><b>Senior Researcher</b><br>Vietnam National Space Center<br>Expertise: Ecological Environmental Vulnerability Assessment, Natural Disasters, Urban Green Space Management</p><div class=\"accent-box\"><h4>Presentation: Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</h4></div></li><li><a href=\"https://aasb.gov.au/board-members/prof-carolyn-cordery/\" target=\"_blank\"><b>Carolyn Cordery</b></a><br><p><b>Chair / Professor</b><br>New Zealand Accounting Standards Board / Victoria University of Wellington<br>Expertise: Non-profit Organization Accounting, Public Sector Auditing, Comparison of International Financial Reporting Standards</p><div class=\"accent-box\"><h4>Presentation: Community resilience: preparing and responding to climate-driven events</h4></div></li><li><a href=\"https://www.researchgate.net/profile/Susanta-Mahato\" target=\"_blank\"><b>Susanta Mahato</b></a><br><p><b>Assistant Professor</b><br>Dr. Harisingh Gour Vishwavidyalaya<br>Expertise: Land-Atmosphere Interaction, Urban Climate Dynamics, Thermal Remote Sensing, Applied Geospatial Analysis</p><div class=\"accent-box\"><h4>Presentation: Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</h4></div></li></ul>"
+      },
+      {
+        "title": "Agenda",
+        "content": "<div class=\"agenda-container\"><p>CESR 2025 Agenda</p><!-- Day 1 --><h4 class=\"agenda-day-title\">Day 1 - Nov 22 (Sun.) | Registration</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>14:00 - 17:00</td><td style='text-align: center; vertical-align: middle;'>Registration <br>The exact check-in time will be notified individually.</td></tr></tbody></table><!-- Day 2 --><h4 class=\"agenda-day-title\">Day 2 - Nov 23 (Mon.)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>Registration</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p>Opening Ceremony and Group Photo</p><p>Chair: Yuei-An Liou (Space and Remote Sensing Chair Professor, NCU and Academician, AES & IAA)</p><table style='width: 100%; margin-top: 10px;'><tbody><tr><td style='width: 33.33%;'>Jen-Inn Chyi (Executive Vice-President, National Central University)</td><td style='width: 33.33%;'>Chung-Pai Chang (Vice-President for International Affairs, National Central University)</td><td style='width: 33.33%;'>Chi-Liang Yen (Director General, Department of Environmental Protection, Taoyuan City Government)</td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:00</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture I</span></p><p>Chair：Yuei-An Liou (Space and Remote Sensing Chair Professor, NCU and Academician, AES & IAA)</p><p>Speaker：Dara Entekhabi(Professor, M.I.T., Bacardi and Stockholm Water Foundations Chair and Member of the National Academy of Engineering)</p><p>Topic: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:00-10:20</td><td style='text-align: center; vertical-align: middle;'>Tea Break</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:20-12:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session I</b></p><p style='margin-top: 0; font-size: 1em; color: #555; text-align: center;'>Chair: Cheng-Ling Kou (Professor, National Central University)</p><p style='margin-top: 0; font-size: 1em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Venkataraman (Venkat) Lakshmi<br><small>John L Newcomb Professor of Engineering, University of Virginia & President, American Geophysical Union, Hydrology Section</small></td><td style='text-align: left; vertical-align: top;'>Using AI/ML in hydrology: Two case studies</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Ngo Duc Minh<br><small>Principal Researcher, Vietnam Academy of Agricultural Sciences</small></td><td style='text-align: left; vertical-align: top;'>Current Status of National Policy of Soil Health Governance in Vietnam</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Swapan Talukdar<br><small>Assistant Professor, University of Calcutta</small></td><td style='text-align: left; vertical-align: top;'>Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Praveen Kumar<br><small>Assistant Professor, Tata Institute of Social Sciences</small></td><td style='text-align: left; vertical-align: top;'>Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>Lunch</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:00-13:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture II</span></p><p>Chair:Shou-Hao Chiang (Associate Professor)</p><p>Speaker:Takashi Oguchi (Professor, The University of Tokyo)</p><p>Topic: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-15:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Bridging Hubs for Drought Resilience: TGI & TNQ DroughtHubs Joint Workshop</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Tang-Huang Lin<br>Distinguished Professor and Director</td><td style='text-align: left; vertical-align: top;'>CSRSR: Advancing Earth Observation for Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Yuei-An Liou<br>Chair Professor and Head of TGI DroughtHub</td><td style='text-align: left; vertical-align: top;'>TGI DroughtHub: Building Pathways for Drought Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Ben Jarihani<br>Associate Professor,James Cook University</td><td style='text-align: left; vertical-align: top;'>Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Lisa Law<br>Associate Professor,James Cook University</td><td style='text-align: left; vertical-align: top;'>Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</td></tr><tr><td style='text-align: left; vertical-align: top;'>5) Rafael Cabral Carvalho<br>Lecturer,James Cook University</td><td style='text-align: left; vertical-align: top;'>Droughts and deltas: an Earth Science perspective on climate change, societal development</td></tr><tr><td style='text-align: left; vertical-align: top;'>6) Discussion Session</td><td style='text-align: left; vertical-align: top;'></td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>15:00-15:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture III</span></p><p>Chair:Shou-Hao Chiang (Associate Professor)</p><p>Speaker:Tran Minh Tien (Vice-President, Vietnamese Academy of Agriculture Science)</p><p>Topic: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>15:30-16:00</td><td style='text-align: center; vertical-align: middle;'>Tea Break / Student Project Exhibition</td></tr><tr><td style='text-align: center; vertical-align: middle;'>16:00-17:40</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session II</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Chair: Chien-Wen Shen (Professor, National Central University)</p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Faiz Shah<br><small>Executive Director, YUNUS CENTER Asian Institute of Technology, Thailand</small></td><td style='text-align: left; vertical-align: top;'>Social Business as a lever for Climate Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Piotr Wezyk<br><small>Professor, University of Agriculture in Krakow</small></td><td style='text-align: left; vertical-align: top;'>Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Nguyen Kim Anh<br><small>Senior research fellow, Ho Chi Minh City Center for Space Technology Application</small></td><td style='text-align: left; vertical-align: top;'>Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Carolyn Cordery<br><small>Chair, New Zealand Accounting Standards Board & Adjunct Professor, Victoria University of Wellington</small></td><td style='text-align: left; vertical-align: top;'>Community resilience: preparing and responding to climate-driven events</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:00</td><td style='text-align: center; vertical-align: middle;'><p>Dinner (Invited guests)</p><p>Xin Tao Fang Garden Restaurant</p></td></tr></tbody></table><!-- Day 3 --><h4 class=\"agenda-day-title\">Day 3 - Nov 24 (Tue.)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>Registration</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture IV</span></p><p>Chair: Hsiao-Ting Tseng (Associate Professor)</p><p>Speaker:Venkataraman (Venkat) Lakshmi (John L Newcomb Professor of Engineering, University of Virginia & President, American Geophysical Union, Hydrology Section)</p><p>Topic: Observing hydrological extremes from space</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:20</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session III</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Chair: Yueh-Hsia Luo (Associate Professor, National Central University)</p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 20 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Dara Entekhabi<br><small>Professor, M.I.T. and Member of the National Academy of Engineering</small></td><td style='text-align: left; vertical-align: top;'>The Drought Cascade and Drought Amplification Due to Heat Waves</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Susanta Mahato<br><small>Assistant Professor, Dr. Harisingh Gour Vishwavidyalaya (A Central University)</small></td><td style='text-align: left; vertical-align: top;'>Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</td></tr></tbody></table></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:20-10:40</td><td style='text-align: center; vertical-align: middle;'>Tea Break</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:40-11:50</td><td style='text-align: center; vertical-align: middle;'>TGDIRC/DroughtHub Strategic Development Forum</td></tr><tr><td style='text-align: center; vertical-align: middle;'>11:50-12:00</td><td style='text-align: center; vertical-align: middle;'>Closing Ceremony</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:30</td><td style='text-align: center; vertical-align: middle;'>Lunch</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-17:30</td><td style='text-align: center; vertical-align: middle;'>Post-Forum Field Trip</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:30</td><td style='text-align: center; vertical-align: middle;'>Farewell Banquet (Invited guests)</td></tr></tbody></table></div>"
+      }
+    ]
+  },
+  "conference2026": {
+    "header": {
+      "date": "November 22-24, 2026 | National Central University, Taoyuan, Taiwan",
+      "title": "The Second International Forum on Climate Extremes and Societal Resilience:<br>Drought, Heat Stress, and Human Livability in a Warming World",
+      "subtitle": "(CESR 2026)"
+    },
+    "registration": {
+      "title": "Conference Registration & Contact Info",
+      "description": "Welcome to register online for CESR 2026. Click the button below or scan the QR code on the right to proceed to the registration page. If you have any questions, please feel free to contact us.",
+      "button_register": "Online Registration",
+      "button_inquiry": "Registration Inquiry Form",
+      "contact_title": "Contact Person",
+      "qr_alt": "Registration QR Code",
+      "qr_caption": "Scan QR Code to Register"
+    },
+    "online_participation": {
+      "title": "Online Participation Link",
+      "description": "Welcome to participate in CESR 2026 online. Please click the link below at the meeting time to enter the virtual meeting room.",
+      "button_link": "Enter Online Meeting"
+    },
+    "venue": {
+      "title": "Venue & Location",
+      "main_hall_title": " Center for Space and Remote Sensing Research, National Central University",
+      "host_by": "Hosted by:",
+      "co_hosted_by": "Co-hosted by:",
+      "advised_by": "Organized under the auspices of:",
+      "surroundings_map": "Surroundings Map",
+      "campus_map": "Campus Map"
+    },
+    "info": {
+      "registration": {
+        "url": "https://forms.gle/LfjM1nqKa47ufQvG6",
+        "inquiryUrl": "https://forms.gle/VtF3gfEKZMBKY6pr8"
+      },
+      "location": {
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.958075318055!2d121.18223309678957!3d24.967540999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346823c26571829b%3A0x4405dd3d60240444!2z5Lit5aSu5aSn5a245aSq56m65Y-K6YGZ5ris56CU56m25Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1761738883357!5m2!1szh-TW!2stw"
+      },
+      "host": {
+        "venue": "National Central University",
+        "hosts": [
+          {
+            "name": "Taiwan and Global Drought Investigation and Research Center (TGDIRC / DroughtHub)",
+            "logo": "DroughtHub.jpg",
+            "alt": "DroughtHub Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "coHosts": [
+          {
+            "name": "Department of environmental protection, Taoyuan City Government",
+            "logo": "桃園市環保局.png",
+            "alt": "Taoyuan EPB Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Taiwan Group on Earth Observations (TGEO)",
+            "logo": "tgeo_logo.png",
+            "alt": "TGEO Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "The Institution of Engineering and Technology (IET) – Taipei Local Network",
+            "logo": "IET_Logo.png",
+            "alt": "IET Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "advisors": [
+          {
+            "name": "National Central University (NCU)",
+            "logo": "logo.png",
+            "alt": "NCU Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": " Taoyuan City Government ",
+            "logo": "桃園市.png",
+            "alt": "桃園市政府 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "National Science and Technology Council",
+            "logo": "nstc_logo.png",
+            "alt": "NSTC Logo",
+            "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Ministry of Agriculture ",
+            "logo": "agriculture_logo.jpg",
+            "alt": "農業部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "Ministry of Education",
+            "logo": "教育部.png",
+            "alt": "教育部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          }
+        ]
+      }
+    },
+    "sections": [
+      {
+        "title": "Important Dates",
+        "content": "<div><ul class=\"styled-list\"><li><b>Abstract submission deadline:</b> October 22, 2026</li><li><b>Notification of abstract acceptance:</b> November 18, 2026</li><li><b>Registration Deadline:</b> November 20, 2026</li><li><b>Conference date:</b> November 22-24 ,2026, with registration beginning on November 21.</li></ul></div>"
+      },
+      {
+        "title": "Introduction",
+        "content": "<p>The Taiwan and Global Drought Information and Research Center (TGDIRC / DroughtHub), established in 2024 and led by the Center for Space and Remote Sensing Research at National Central University, is dedicated to integrating research and development for global drought monitoring, early warning systems, and adaptation strategies. The core mission of the center is to address the increasingly severe challenges of global climate change, particularly the profound impacts of extreme climate events like droughts and heat stress on human society.</p><p>The Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) clearly states that global warming will lead to more frequent and severe drought events. It is projected that by 2050, over 5 billion people worldwide will face water shortages. As a high-risk region for climate change, Taiwan has deeply experienced this trend in recent years: the centennial drought in 2021 caused a nationwide water supply crisis with economic losses exceeding NT$100 billion; the record-breaking extreme heat events in 2023 not only impacted the energy system but also directly threatened public health and quality of life.</p><p>In the face of these unprecedented challenges, the efforts of a single country or institution are no longer sufficient. The international scientific community widely recognizes that only through cross-border, interdisciplinary collaborative research and knowledge sharing can effective solutions be developed. TGDIRC was established against this backdrop, aiming to build an integrated international research platform.</p><p>Since its inception, TGDIRC has actively established cooperative relationships with top international institutions such as the National Drought Mitigation Center (NDMC) in the United States, the Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Australia, and the European Climate Adaptation Platform. It also participates in relevant initiatives from the United Nations Office for Disaster Risk Reduction (UNDRR) and the World Meteorological Organization (WMO). At the same time, the center has established research partnerships with countries in the Asia-Pacific region facing similar challenges, including Japan, South Korea, Australia, India, and Vietnam.</p><p>To establish a permanent international academic exchange and policy dialogue platform that gathers the wisdom of top global experts in climate extremes, societal resilience, and human livability, TGDIRC has specially planned the first “International Forum on Climate Extremes and Societal Resilience.” This forum aims to become a major annual event in the field of climate science in the Asia-Pacific region and globally, establishing a long-term mechanism for promoting international cooperation, fostering knowledge innovation, and strengthening the scientific basis for policymaking.</p><p>Through this forum, we hope not only to showcase Taiwan's strength and international contributions in the field of climate science research but also to provide innovative solutions for the global community to face the challenges of climate change, working together to maintain a livable environment for humanity in a warming world."
+      },
+      {
+        "title": "Objectives",
+        "content": "<p>This forum is committed to developing the world's most influential research exchange platform on climate extremes and societal resilience, bringing together top interdisciplinary expert wisdom to provide innovative solutions for human sustainability in a warming world. The conference will be held in-person, emphasizing deep face-to-face exchanges and the development of collaborative networks. Paper submissions will use an English abstract system to ensure a high degree of integration in international academic exchange.</p><p>The forum focuses on core issues such as drought monitoring and early warning, health impacts of heat stress, water resource security, agricultural resilience, ecosystem adaptation, energy system stability, urban climate governance, and disaster risk management, aiming to establish a complete knowledge chain from scientific research to policy implementation. Based on TGDIRC's founding mission to \"promote global climate resilience and safeguard a livable future for humanity,\" this forum has the following strategic objectives and core values:</p><ol><li><b>Leading Global Climate Science</b><br>Special emphasis is placed on integrating cutting-edge technologies like artificial intelligence, satellite remote sensing, and big data analytics to establish a next-generation, long-term, and real-time climate monitoring and early warning system. We invite top global scientists to jointly explore the theoretical and practical optimization of these systems. By promoting forward-looking practical technology applications and deep dialogue with theory, we aim to set a new benchmark for global research on climate extremes, transitioning from a follower to a leader in scientific innovation. We will shift from responding to challenges to predicting them and establishing diverse solutions.</li><li><b>Building an International Scientific Research Ecosystem</b><br>Taiwan holds a unique geographical and research advantage in climate studies. This forum will connect with the international academic community to establish interdisciplinary strategic partnerships, making Taiwan a hub for climate science in the Asia-Pacific region. Through the TGDIRC platform, we will deepen strategic partnerships with top research institutions in the US, Europe, and Australia, establish a permanent global expert network, promote long-term research cooperation, and encourage dialogue between young scholars and the international community. The goal is to shape Taiwan into a bridge for knowledge and policy exchange in global climate governance and to enhance Taiwan's voice and influence on international climate governance issues.</li><li><b>Enhancing National Climate Resilience</b><br>Establish a complete transformation mechanism from \"science → policy → practice,\" effectively translating scientific results into practical policy recommendations and assisting the government in implementing them in society and industry. Provide the government with forward-looking climate adaptation strategies, shifting from reactive responses to proactive prevention. When future climate change disasters occur, Taiwan can transform from being merely a victim to a solution provider, becoming a model case for global climate resilience governance.</li><li><b>Promoting the Realization of Sustainable Development Goals</b><br>Closely align with the UN 2030 Agenda for Sustainable Development, particularly addressing SDG 6 (Clean Water and Sanitation), SDG 11 (Sustainable Cities and Communities), SDG 13 (Climate Action), and SDG 15 (Life on Land). Propose breakthrough solutions in areas such as water resources, urban resilience, climate change response, and environmental protection to ensure that the conference outcomes have a substantial impact on the sustainable development agenda and demonstrate Taiwan's tangible contribution to global sustainable development.</li><li><b>Catalyzing Interdisciplinary Innovation and Integration</b><br>Solving climate challenges relies not only on in-depth exploration within a single discipline. By breaking traditional disciplinary boundaries, we will promote deep integration between climate science, public health, sociology, economics, and engineering technology. We will cultivate a new generation of climate experts with systemic thinking, foster new frontiers of research knowledge and innovative policy strategic frameworks, and drive solutions from single-point breakthroughs to systemic innovation.</li><li><b>Establishing a Global Knowledge Sharing Mechanism</b><br>Create an open international research platform to incentivize cross-national research team exchanges and collaboration. Promote data sharing, technology transfer, and talent exchange to ensure that climate science research results can be rapidly transformed into global public welfare, allowing scientific knowledge to truly serve the construction of a community with a shared future for mankind.</li></ol>"
+      },
+      {
+        "title": "Expected Impacts",
+        "content": "<ol><li><b>Constructing a Global Climate Resilience Research Ecosystem</b><br>Deepen strategic partnerships between Taiwan and top global climate research institutions, including the US National Drought Mitigation Center, the European Climate Adaptation Platform, and Australia's CSIRO, to establish a permanent international expert network. The forum platform is expected to initiate at least 5 major international cooperation projects, making Taiwan a core hub for climate extreme event research in the Asia-Pacific region and significantly enhancing our country's voice and influence in international climate science.</li><li><b>Catalyzing Breakthroughs in Interdisciplinary Innovative Research</b><br>Through in-depth group discussions on eight core themes (drought monitoring and early warning, health impacts of heat stress, water resource resilience, agricultural adaptation, ecosystem protection, energy security, urban climate governance, and disaster risk management), we will break traditional disciplinary boundaries. This will promote innovative integration between climate science and fields like public health, sociology, economics, and artificial intelligence. We anticipate generating over 10 breakthrough interdisciplinary research proposals, providing original Taiwanese solutions to global climate challenges.</li><li><b>Enhancing National Climate Adaptation Governance Capacity</b><br>Focusing on the dual threats of drought and heat stress faced by Taiwan, the forum will conduct in-depth discussions on key issues such as the establishment of early warning systems, smart water resource management, urban heat island mitigation, agricultural resilience enhancement, and health protection mechanisms. By establishing a complete transformation mechanism from \"science → policy → practice,\" we will provide the government with forward-looking and actionable climate adaptation strategies. This is expected to reduce socioeconomic losses from extreme climate events by over 30% and develop Taiwan into a model case for global climate resilience governance.</li><li><b>Boosting International Academic Impact</b><br>Establish a rigorous international peer-review mechanism and compile a \"Special Issue on Climate Extremes and Societal Resilience,\" meeting the standards of top international journals. Outstanding research results will be recommended for publication in high-impact journals, with an expectation of producing 5 or more SCI papers with a total impact factor exceeding 10. Simultaneously, an annual TGDIRC report mechanism will be established to serve as an important reference for global climate policymaking, significantly enhancing the international academic standing and practical impact of Taiwan's climate science research.</li><li><b>Cultivating Next-Generation Climate Science Leaders</b><br>Provide opportunities for graduate students and young scholars from home and abroad to engage in deep exchanges with top international experts, establishing a global talent cultivation network. The \"Young Scholar Best Paper Award\" and \"International Exchange Scholarship\" will be established to support outstanding talent for cooperative research abroad for six months or more. We expect to cultivate over 50 climate experts with an international perspective and systemic thinking, laying a solid talent foundation for the long-term development of climate science in Taiwan.</li><li><b>Establishing a Sustainable Knowledge Sharing Mechanism</b><br>Construct an open online research platform to promote the real-time sharing of global climate data, monitoring technologies, and adaptation strategies. Establish a TGDIRC digital knowledge base to house research findings related to global drought and heat stress, becoming a vital resource center for the international climate science community. Through the regular publication of the \"Global Climate Extreme Events Monitoring Report,\" we will provide scientific decision support to international organizations such as the United Nations and the World Bank, demonstrating Taiwan's substantial contribution to global climate governance.</li></ol>"
+      },
+      {
+        "title": "Conference Themes",
+        "content": "<ul class=\"themes-list\"><li class=\"accent-box\"><h4>Theme 1: Drought Monitoring and Early Warning Technologies</h4><p>Drought is one of the most destructive natural disasters globally, with impacts spanning agricultural production, water resource management, and energy supply, potentially causing huge damage to ecosystem stability and socioeconomic development. As extreme climate change leads to drastic environmental shifts, the frequency and intensity of drought events are gradually increasing. Establishing systematic and scientific drought monitoring and early warning technologies has become an urgent international research and policy need. This theme will focus on the integration and application of multi-source data, including satellite monitoring, ground observation networks, and climate change simulations, to enhance real-time monitoring and prediction capabilities of the drought development process.<br>Topics will include, but are not limited to:<br>1. Innovative applications of monitoring technologies<br>2. Design, comparison, and improvement of drought indices<br>3. Application of AI and big data analytics in drought monitoring and early warning<br>4. Establishment of cross-regional drought monitoring platforms and decision support systems<br>5. Methods for assessing drought impacts on agriculture and ecosystems<br>6. Climate model simulation and drought event prediction</p></li><li class=\"accent-box\"><h4>Theme 2: Urban Heat Island Effect and Climate Adaptation</h4><p>Rapid urbanization and intensifying global warming have made the Urban Heat Island (UHI) effect a major challenge for densely populated areas, as it exacerbates energy demand, strains infrastructure, and affects residents' health and social safety. This theme focuses on the causes of the UHI effect, monitoring technologies, and multi-level adaptation strategies, aiming to establish a comprehensive response that integrates scientific foundations, engineering techniques, and social governance.<br>Topics will include, but are not limited to:<br>1. Mechanisms and driving factors of the UHI effect<br>2. Application of digital technologies in urban heat monitoring<br>3. Urban climate simulation and heatwave impact prediction models<br>4. The role of smart city technologies in cooling and energy conservation<br>5. Effectiveness evaluation of urban renewal and land use planning in mitigating the UHI effect<br>6. Sustainable development through the combination of digital technology and green architecture</p></li><li class=\"accent-box\"><h4>Theme 3: Climate Policy, Water Resource Management, and Societal Resilience</h4><p>Climate change is drastically affecting the stability of the water cycle system, with water resource issues becoming increasingly severe due to droughts, floods, and environmental pollution. How to enhance societal resilience and adaptability through forward-looking climate policies and effective water resource management has become a crucial issue for all nations. This theme will focus on interdisciplinary governance and collaboration among multiple stakeholders, addressing policy, management, and social innovation to establish a fair and sustainable water resource governance framework.<br>Topics will include, but are not limited to:<br>1. Water resource governance policies and institutional design under climate change; interdisciplinary resilience integrating hydrology, public policy, economics, and sociology<br>2. Cooperative mechanisms for trans-basin or transnational water resource management<br>3. Application of smart water grids, IoT, and AI in water resource regulation<br>4. Adaptation strategies involving groundwater development, reclaimed water use, and non-conventional water resources<br>5. Water resource risk management and social equity<br>6. Resilience assessment and decision support methods for water resources in the face of extreme droughts and floods</p></li><li class=\"accent-box\"><h4>Theme 4: Health Impacts of Climate Change</h4><p>Climate change has become one of the most severe public health challenges of the 21st century. Extreme heat, droughts, water shortages, and other extreme weather events are directly or indirectly threatening human health and social development. Climate impacts lead to issues such as heatstroke, cardiovascular diseases, the spread of infectious diseases, and deteriorating food and nutrition security, exacerbating health inequalities and placing vulnerable populations at higher risk, which can cause potential fluctuations and impacts on social stability. This theme focuses on scientific research, health risk assessment, and policy implementation, soliciting interdisciplinary research findings and case studies to promote the development of health-oriented climate adaptation strategies.<br>Topics will include, but are not limited to:<br>1. Impact assessment of high temperatures and heatwaves on cardiovascular and respiratory diseases<br>2. Climate change and the epidemiology of infectious diseases<br>3. Research on mental health and social stress under climate impacts<br>4. Building the climate resilience of healthcare systems<br>5. The relationship between climate change and public health management risks<br>6. Application of protective measures for vulnerable populations' health</p></li><li class=\"accent-box\"><h4>Theme 5: Economic Impact Assessment of Extreme Climate Events</h4><p>Extreme climate events such as droughts, floods, heatwaves, and hurricanes not only cause direct damage to infrastructure and production systems but also have profound economic impacts through supply chain disruptions, energy price volatility, labor losses, and rising insurance costs. Quantifying and assessing these impacts, and further proposing specific financial, policy, and market response measures, is a crucial foundation for enhancing societal resilience. This thematic session focuses on the economic risk assessment and adaptation strategies for diverse industries, production supply chains, and market environments under extreme climate conditions.<br>Topics will include, but are not limited to:<br>1. Disaster risk models, actuarial science, and reinsurance mechanism design<br>2. The impact of climate events on energy markets, agricultural output, and supply chains<br>3. Economic risk assessment within the ESG framework<br>4. Economic vulnerability and adaptation strategies for SMEs and local communities facing extreme climate events<br>5. The impact of climate migration and population displacement on labor markets and local economies<br>6. Resilience and recovery of urban, community, or market environments under climate impacts</p></li></ul>"
+      },
+      {
+        "title": "Conference Information",
+        "isStructured": true,
+        "content": {
+          "intro": "2026 International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World <br>2nd International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World",
+          "details": [
+            {
+              "label": "Conference Dates",
+              "value": "November 23 (Sunday) – November 25 (Tuesday), 2026"
+            },
+            {
+              "label": "Venue",
+              "value": "Center for Space and Remote Sensing Research, National Central University"
+            },
+            {
+              "label": "Advisors",
+              "value": "National Central University (NCU)<br>Taoyuan City Government<br>National Science and Technology Council (NSTC)"
+            },
+            {
+              "label": "Organizer",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "Taiwan and Global Drought Investigation and Research Center (TGDIRC / DroughtHub)",
+                  "logo": "DroughtHub.jpg",
+                  "alt": "DroughtHub Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Co-organizers",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "Department of environmental protection, Taoyuan City Government",
+                  "logo": "桃園市環保局.png",
+                  "alt": "Taoyuan EPB Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Taiwan Group on Earth Observations (TGEO)",
+                  "logo": "tgeo_logo.png",
+                  "alt": "TGEO Logo",
+                  "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "The Institution of Engineering and Technology (IET) – Taipei Local Network",
+                  "logo": "IET_Logo.png",
+                  "alt": "IET Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Organized under the auspices of:",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "National Central University (NCU)",
+                  "logo": "logo.png",
+                  "alt": "NCU Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Taoyuan City Government",
+                  "logo": "桃園市.png",
+                  "alt": "桃園市政府 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "National Science and Technology Council",
+                  "logo": "nstc_logo.png",
+                  "alt": "NSTC Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "Ministry of Agriculture",
+                  "logo": "agriculture_logo.jpg",
+                  "alt": "農業部 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "Conference Chairs",
+              "value": "Chair Professorship. Yuei-An Liou"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Editorial Board",
+        "isEditorialBoard": true,
+        "content": {
+          "advisors": [
+            {
+              "name": "Takaghoshi",
+              "title": "Advisor",
+              "image": "Gemini_Takaghoshi.png"
+            },
+            {
+              "name": "EME President",
+              "title": "Advisor",
+              "image": "Gemini_EMEPresident.png"
+            },
+            {
+              "name": "Former President",
+              "title": "Advisor",
+              "image": "Gemini_Former President.png"
+            },
+            {
+              "name": "HUMG",
+              "title": "Advisor",
+              "image": "Gemini_HUMG.png"
+            }
+          ],
+          "teamMembers": [
+            {
+              "image": "Gemini_劉說安2.png",
+              "name": "Yuei-An Liou",
+              "title": "Space and Remote Sensing Chair Professor",
+              "department": "Center for Space and Remote Sensing Research",
+              "expertise": [
+                "<b>Remote Sensing</b>: microwave, thermal infrared, and optical remote sensing; satellite- and airborne-based remote sensing<br><b>Science</b>: boundary layer (micrometeorology), atmospheric science<br><b>Engineering</b>: electrical engineering (electromagnetic waves), GPS meteorology"
+              ],
+              "detailUrl": "https://www.csrsr.ncu.edu.tw/about/professor_info.php?id=4"
+            },
+            {
+              "image": "Gemini_Chien_wen_Shen.png",
+              "name": "Chien-wen Shen",
+              "title": "Professor & Director of the Center for Asian Impact Measurement and Management, Social Enterprise Center, and Public Communication Center",
+              "department": "Department of Business Administration",
+              "expertise": [
+                "Information innovation technology applications, supply chain management, decision sciences"
+              ],
+              "detailUrl": "https://ba.mgt.ncu.edu.tw/faculty_txt.php?id=1054"
+            },
+            {
+              "image": "Gemini_Cheng-Ling Kou2.png",
+              "name": "Cheng-Ling Kou",
+              "title": "Professor",
+              "department": "Center for Space Science and Technology",
+              "expertise": [
+                "<b>Remote Sensing</b>: hyperspectral and multispectral data fusion, land cover classification, high-temperature analysis<br><b>Science</b>: atmospheric electricity and plasma physics<br><b>Engineering</b>: CubeSats and space optical payloads"
+              ],
+              "detailUrl": "https://scholars.ncu.edu.tw/zh/persons/cheng-ling-kou"
+            },
+            {
+              "image": "Gemini_hsu_wen_chin2.png",
+              "name": "Wen-Chin Hsu",
+              "title": "Professor",
+              "department": "Department of Information Management",
+              "expertise": [
+                "Healthcare information management, e-commerce, human-computer interaction, consumer behavior, intelligent services"
+              ],
+              "detailUrl": "https://im.mgt.ncu.edu.tw/teacher"
+            },
+            {
+              "image": "Hsiao-Ting Tseng.jpg",
+              "name": "Hsiao-Ting Tseng",
+              "title": "Associate Professor",
+              "department": "Department of Information Management",
+              "expertise": [
+                "Social media and social networks, e-commerce, health information systems, human-computer interaction, service science, AI applications and data science"
+              ],
+              "detailUrl": "https://im.mgt.ncu.tw/teacher"
+            },
+            {
+              "image": "Gemini_羅月霞 Yueh-Hsia Luo.png",
+              "name": "Yueh-Hsia Luo",
+              "title": "Associate Professor",
+              "department": "Department of Life Sciences",
+              "expertise": [
+                "Infection and immunity, nanoparticle immunotoxicity analysis, gut microbiota and immune system"
+              ],
+              "detailUrl": "https://nculs.in.ncu.edu.tw/index.php/Staff/more/id/20/cid/2.html"
+            },
+            {
+              "image": "Gemini_徐峻賢Chun-Hsien Hsu.png",
+              "name": "Chun-Hsien Hsu",
+              "title": "Associate Professor",
+              "department": "Institute of Cognitive Neuroscience",
+              "expertise": [
+                "Neurolinguistics, computational linguistics, phonetics, morphology, language acquisition, EEG/MEG signal analysis"
+              ],
+              "detailUrl": "https://icn.ncu.edu.tw/2-1-detail.php?id=9"
+            },
+            {
+              "image": "Gemini_Shou-Hao Chiang.png",
+              "name": "Shou-Hao Chiang",
+              "title": "Associate Professor",
+              "department": "Center for Space and Remote Sensing Research",
+              "expertise": [
+                "Spatial patterns, spatial information analysis, hydrology and landslide modeling, physical geography"
+              ],
+              "detailUrl": "https://www.csrsr.ncu.edu.tw/about/professor_info.php?id=15"
+            }
+          ]
+        }
+      },
+      {
+        "title": "Speakers",
+        "content": "<h3 class=\"speakers-subtitle\">Plenary Session Speakers</h3><ul class=\"styled-list\"><li><a href=\"https://cee.mit.edu/people_individual/dara-entekhabi/\" target=\"_blank\"><b>Dara Entekhabi</b></a><br><p><b>Professor / Fellow</b><br>Professor, M.I.T. & Fellow of the National Academy of Engineering (NAE)<br>Expertise: Remote Sensing Earth Science, Land-Atmosphere Interaction, Hydrological Modeling, Surface Water-Groundwater Interaction</p><div class=\"accent-box\"><h4>Presentation: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</h4></div><div class=\"accent-box\"><h4>Presentation: The Drought Cascade and Drought Amplification Due to Heat Waves</h4></div></li><li><a href=\"https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/takashi_oguchi/\"><b>Takashi Oguchi</b></a><br><p><b>Professor / President</b><br> Professor at the University of Tokyo<br> Currently serves as Vice President of the International Association of Geomorphologists (IAG), Vice President of the Japan Geoscience Union (JpGU), and President of the Association of Japanese Geographers<br> Former President of the Japan Society of Geomorphology and the Japan Society for Geographical Information Systems<br> Renowned for profound expertise and international influence in geomorphology and spatial information sciences <div class=\"accent-box\"> <h4>Presentation: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</h4></div></li><li><a href=\"https://www.gcrf-agriplastics.uk/project-team/vietnam/\" target=\"_blank\"><b>Trần Minh Tiến</b></a><br><p><b>Vice President / Professor</b><br>Vice President of the Vietnam Academy of Agricultural Sciences (VAAS)<br>This forum is part of the “DroughtHub Drought Resilience Research Program.”<br>Professor Tiến will lead a delegation to participate in bilateral meetings and academic exchanges, focusing on collaborative research in drought adaptation and agricultural innovation.</p><div class=\"accent-box\"><h4>Presentation: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</h4></div></li><li><a href=\"https://engineering.virginia.edu/faculty/venkataraman-lakshmi\" target=\"_blank\"><b>Venkataraman (Venkat) Lakshmi</b></a><br><p><b>Chair Professor / President</b><br>John L. Newcomb Chair Professor, University of Virginia<br>President, Hydrology Section, American Geophysical Union (AGU)<br>Expertise: Hydrological Remote Sensing, Climate Change Impact Assessment</p><div class=\"accent-box\"><h4>Presentation: Observing hydrological extremes from space</h4></div></li><li><a href=\"https://ap.fftc.org.tw/author/2216\" target=\"_blank\"><b>Ngo Duc Minh</b></a><br><p><b>Principal Researcher</b><br>Vietnam Academy of Agricultural Sciences(VAAS)<br>Expertise: Soil science, climate-smart agriculture, low-carbon and organic farming, and sustainable agri-food systems</p><div class=\"accent-box\"><h4>Presentation: Current Status of National Policy of Soil Health Governance in Vietnam</h4></div></li><li><a href=\"https://sciprofiles.com/profile/996709\" target=\"_blank\"><b>Swapan Talukdar</b></a><br><p><b>Assistant Professor</b><br>Asutosh College, University of Calcutta<br>Expertise: Environmental Sustainability, Water Resource Management, Remote Sensing, AI/ML Applications</p><div class=\"accent-box\"><h4>Presentation: Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</h4></div></li><li><a href=\"https://tiss.ac.in/view/9/employee/praveen-kumar/\" target=\"_blank\"><b>Praveen Kumar</b></a><br><p><b>Assistant Professor</b><br>Tata Institute of Social Sciences, Mumbai, India<br>Expertise: Social-Ecological Systems, Climate Change Vulnerability and Adaptation, Climate Risk</p><div class=\"accent-box\"><h4>Presentation: Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</h4></div></li><li><a href=\"https://ucentralasia.org/faculty-and-staff/dr-ben-jarihani\" target=\"_blank\"><b>Ben Jarihani</b></a><br><p><b>Associate Professor</b><br>James Cook University, Australia<br>Expertise: Hydrology, Remote Sensing and GIS, Watershed Modeling, Natural Resource Management</p><div class=\"accent-box\"><h4>Presentation: Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</h4></div></li><li><a href=\"https://au.linkedin.com/in/lisa-law-48739191\" target=\"_blank\"><b>Lisa Law</b></a><br><p><b>Associate Professor</b><br>James Cook University, Australia<br>Expertise: Urban Studies in Southeast Asia and Tropical Australia, Livability, Place-based Urban Design</p><div class=\"accent-box\"><h4>Presentation: Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</h4></div></li><li><a href=\"https://scholar.google.com/citations?user=f_NFqRgAAAAJ&hl=en\" target=\"_blank\"><b>Rafael Cabral Carvalho</b></a><br><p><b>Lecturer</b><br>James Cook University, Australia<br>Expertise: Coastal geomorphology, sedimentology, and marine geospatial analysis</p><div class=\"accent-box\"><h4>Presentation: Droughts and deltas: an Earth Science perspective on climate change, societal development</h4></div></li><li><a href=\"https://www.yunuscenterait.org/aboutdrfaiz\" target=\"_blank\"><b>Faiz Shah</b></a><br><p><b>Executive Director</b><br>Yunus Centre, Asian Institute of Technology, Thailand<br>Expertise: Social Enterprise, Sustainable Development, Corporate Responsibility, Grassroots Innovation Empowerment</p><div class=\"accent-box\"><h4>Presentation: Social Business as a lever for Climate Resilience</h4></div></li><li><a href=\"https://kzzl.urk.edu.pl/pracownicy/piotrwezyk-4.html\" target=\"_blank\"><b>Piotr Wezyk</b></a><br><p><b>Professor</b><br>University of Agriculture in Krakow, Poland<br>Expertise: LiDAR Scanning and Remote Sensing Applications, Urban and Economic Forest Management, Spatio-temporal GIS Analysis, Urban Green Space Ecosystem Services</p><div class=\"accent-box\"><h4>Presentation: Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</h4></div></li><li><a href=\"https://vneat.org/?page_id=286&utm_source=chatgpt.com&lang=en\" target=\"_blank\"><b>Nguyen Kim Anh</b></a><br><p><b>Senior Researcher</b><br>Vietnam National Space Center<br>Expertise: Ecological Environmental Vulnerability Assessment, Natural Disasters, Urban Green Space Management</p><div class=\"accent-box\"><h4>Presentation: Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</h4></div></li><li><a href=\"https://aasb.gov.au/board-members/prof-carolyn-cordery/\" target=\"_blank\"><b>Carolyn Cordery</b></a><br><p><b>Chair / Professor</b><br>New Zealand Accounting Standards Board / Victoria University of Wellington<br>Expertise: Non-profit Organization Accounting, Public Sector Auditing, Comparison of International Financial Reporting Standards</p><div class=\"accent-box\"><h4>Presentation: Community resilience: preparing and responding to climate-driven events</h4></div></li><li><a href=\"https://www.researchgate.net/profile/Susanta-Mahato\" target=\"_blank\"><b>Susanta Mahato</b></a><br><p><b>Assistant Professor</b><br>Dr. Harisingh Gour Vishwavidyalaya<br>Expertise: Land-Atmosphere Interaction, Urban Climate Dynamics, Thermal Remote Sensing, Applied Geospatial Analysis</p><div class=\"accent-box\"><h4>Presentation: Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</h4></div></li></ul>"
+      },
+      {
+        "title": "Agenda",
+        "content": "<div class=\"agenda-container\"><p>CESR 2026 Agenda</p><!-- Day 1 --><h4 class=\"agenda-day-title\">Day 1 - Nov 22 (Sun.) | Registration</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>14:00 - 17:00</td><td style='text-align: center; vertical-align: middle;'>Registration <br>The exact check-in time will be notified individually.</td></tr></tbody></table><!-- Day 2 --><h4 class=\"agenda-day-title\">Day 2 - Nov 23 (Mon.)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>Registration</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p>Opening Ceremony and Group Photo</p><p>Chair: Yuei-An Liou (Space and Remote Sensing Chair Professor, NCU and Academician, AES & IAA)</p><table style='width: 100%; margin-top: 10px;'><tbody><tr><td style='width: 33.33%;'>Jen-Inn Chyi (Executive Vice-President, National Central University)</td><td style='width: 33.33%;'>Chung-Pai Chang (Vice-President for International Affairs, National Central University)</td><td style='width: 33.33%;'>Chi-Liang Yen (Director General, Department of Environmental Protection, Taoyuan City Government)</td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:00</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture I</span></p><p>Chair：Yuei-An Liou (Space and Remote Sensing Chair Professor, NCU and Academician, AES & IAA)</p><p>Speaker：Dara Entekhabi(Professor, M.I.T., Bacardi and Stockholm Water Foundations Chair and Member of the National Academy of Engineering)</p><p>Topic: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:00-10:20</td><td style='text-align: center; vertical-align: middle;'>Tea Break</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:20-12:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session I</b></p><p style='margin-top: 0; font-size: 1em; color: #555; text-align: center;'>Chair: Cheng-Ling Kou (Professor, National Central University)</p><p style='margin-top: 0; font-size: 1em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Venkataraman (Venkat) Lakshmi<br><small>John L Newcomb Professor of Engineering, University of Virginia & President, American Geophysical Union, Hydrology Section</small></td><td style='text-align: left; vertical-align: top;'>Using AI/ML in hydrology: Two case studies</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Ngo Duc Minh<br><small>Principal Researcher, Vietnam Academy of Agricultural Sciences</small></td><td style='text-align: left; vertical-align: top;'>Current Status of National Policy of Soil Health Governance in Vietnam</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Swapan Talukdar<br><small>Assistant Professor, University of Calcutta</small></td><td style='text-align: left; vertical-align: top;'>Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Praveen Kumar<br><small>Assistant Professor, Tata Institute of Social Sciences</small></td><td style='text-align: left; vertical-align: top;'>Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>Lunch</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:00-13:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture II</span></p><p>Chair:Shou-Hao Chiang (Associate Professor)</p><p>Speaker:Takashi Oguchi (Professor, The University of Tokyo)</p><p>Topic: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-15:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Bridging Hubs for Drought Resilience: TGI & TNQ DroughtHubs Joint Workshop</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Tang-Huang Lin<br>Distinguished Professor and Director</td><td style='text-align: left; vertical-align: top;'>CSRSR: Advancing Earth Observation for Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Yuei-An Liou<br>Chair Professor and Head of TGI DroughtHub</td><td style='text-align: left; vertical-align: top;'>TGI DroughtHub: Building Pathways for Drought Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Ben Jarihani<br>Associate Professor,James Cook University</td><td style='text-align: left; vertical-align: top;'>Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Lisa Law<br>Associate Professor,James Cook University</td><td style='text-align: left; vertical-align: top;'>Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</td></tr><tr><td style='text-align: left; vertical-align: top;'>5) Rafael Cabral Carvalho<br>Lecturer,James Cook University</td><td style='text-align: left; vertical-align: top;'>Droughts and deltas: an Earth Science perspective on climate change, societal development</td></tr><tr><td style='text-align: left; vertical-align: top;'>6) Discussion Session</td><td style='text-align: left; vertical-align: top;'></td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>15:00-15:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture III</span></p><p>Chair:Shou-Hao Chiang (Associate Professor)</p><p>Speaker:Tran Minh Tien (Vice-President, Vietnamese Academy of Agriculture Science)</p><p>Topic: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>15:30-16:00</td><td style='text-align: center; vertical-align: middle;'>Tea Break / Student Project Exhibition</td></tr><tr><td style='text-align: center; vertical-align: middle;'>16:00-17:40</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session II</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Chair: Chien-Wen Shen (Professor, National Central University)</p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 40 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Faiz Shah<br><small>Executive Director, YUNUS CENTER Asian Institute of Technology, Thailand</small></td><td style='text-align: left; vertical-align: top;'>Social Business as a lever for Climate Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Piotr Wezyk<br><small>Professor, University of Agriculture in Krakow</small></td><td style='text-align: left; vertical-align: top;'>Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</td></tr><tr><td style='text-align: left; vertical-align: top;'>3) Nguyen Kim Anh<br><small>Senior research fellow, Ho Chi Minh City Center for Space Technology Application</small></td><td style='text-align: left; vertical-align: top;'>Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</td></tr><tr><td style='text-align: left; vertical-align: top;'>4) Carolyn Cordery<br><small>Chair, New Zealand Accounting Standards Board & Adjunct Professor, Victoria University of Wellington</small></td><td style='text-align: left; vertical-align: top;'>Community resilience: preparing and responding to climate-driven events</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:00</td><td style='text-align: center; vertical-align: middle;'><p>Dinner (Invited guests)</p><p>Xin Tao Fang Garden Restaurant</p></td></tr></tbody></table><!-- Day 3 --><h4 class=\"agenda-day-title\">Day 3 - Nov 24 (Tue.)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>Registration</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">Keynote Lecture IV</span></p><p>Chair: Hsiao-Ting Tseng (Associate Professor)</p><p>Speaker:Venkataraman (Venkat) Lakshmi (John L Newcomb Professor of Engineering, University of Virginia & President, American Geophysical Union, Hydrology Section)</p><p>Topic: Observing hydrological extremes from space</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:20</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>Session III</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Chair: Yueh-Hsia Luo (Associate Professor, National Central University)</p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>Speakers: (15 mins for presentation+ 20 mins for discussion)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>Speakers</th><th style='width: 60%; text-align: left; vertical-align: top;'>Topic</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>1) Dara Entekhabi<br><small>Professor, M.I.T. and Member of the National Academy of Engineering</small></td><td style='text-align: left; vertical-align: top;'>The Drought Cascade and Drought Amplification Due to Heat Waves</td></tr><tr><td style='text-align: left; vertical-align: top;'>2) Susanta Mahato<br><small>Assistant Professor, Dr. Harisingh Gour Vishwavidyalaya (A Central University)</small></td><td style='text-align: left; vertical-align: top;'>Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</td></tr></tbody></table></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:20-10:40</td><td style='text-align: center; vertical-align: middle;'>Tea Break</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:40-11:50</td><td style='text-align: center; vertical-align: middle;'>TGDIRC/DroughtHub Strategic Development Forum</td></tr><tr><td style='text-align: center; vertical-align: middle;'>11:50-12:00</td><td style='text-align: center; vertical-align: middle;'>Closing Ceremony</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:30</td><td style='text-align: center; vertical-align: middle;'>Lunch</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-17:30</td><td style='text-align: center; vertical-align: middle;'>Post-Forum Field Trip</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:30</td><td style='text-align: center; vertical-align: middle;'>Farewell Banquet (Invited guests)</td></tr></tbody></table></div>"
+      }
+    ]
+  }
+}

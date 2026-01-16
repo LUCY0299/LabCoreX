@@ -1,0 +1,980 @@
+{
+  "header": {
+    "logoAlt": "許文錦教授實驗室 Logo",
+    "nav": {
+      "home": "首頁",
+      "professor": "指導教授",
+      "research": "研究領域",
+      "team": "成員",
+      "publications": "學術著作",
+      "gallery": "活動剪影",
+      "contact": "聯絡我們",
+      "language": "ENGLISH"
+    }
+  },
+  "footer": {
+    "copyright": "© 2026 國立中央大學資訊管理學系 - 許文錦教授實驗室. All rights reserved."
+  },
+  "hero": {
+    "title": "Recruiting",
+    "subtitle": "歡迎對醫療資訊管理、人機互動與智慧型服務研究有興趣的同學加入"
+  },
+  "about": {
+    "title": "關於我們",
+    "paragraph1": "許文錦教授實驗室 (Wen-Chin Hsu Lab) 隸屬於國立中央大學資訊管理學系，致力於結合資訊技術與人類行為研究。我們專注於探討如何透過創新的資訊系統提升醫療管理效率，並深入研究人機互動 (HCI) 過程中的消費者行為與智慧型服務設計。",
+    "paragraph2": "本實驗室匯聚多領域的熱血成員，研究範疇涵蓋電子商務、健康資訊系統與 AI 應用。我們強調理論與實踐並重，目標是開發出更具人性化、更智慧化的資訊解決方案，為數位社會與健康醫療產業貢獻價值。"
+  },
+  "news": {
+    "title": "最新消息& 榮譽榜",
+    "readMore": "顯示更多 &rarr;",
+    "items": [
+      { "id": 1, "date": "2025.10", "title": "恭賀！！ 子涵榮獲日本大阪大學 SAKURA Science Program 研究交流計畫" },
+      { "id": 2, "date": "2025.09", "title": "恭賀！！伯輝入選 2025 華立創新材料大賽" },
+      { "id": 3, "date": "2025.08", "title": "祝！！品鈞、昕晏、可親 碩士班畢業快樂" },
+      { "id": 4, "date": "2025.07", "title": "🎉 Congratulations! We are very proud to announce that Dr. Jaturon Kumchompoo has been appointed as a Faculty Member at Thammasat University, Thailand." },
+      { "id": 5, "date": "2025.07", "title": "歡迎 旻璇、煜茵、昱媗、詩涵 加入 JTL lab" },
+      { "id": 6, "date": "2025.06", "title": "祝！！Jaturon Kumchompoo 博士班畢業快樂" },
+      { "id": 7, "date": "2025.06", "title": "祝！！專題生 芸甄、妍曲 畢業快樂" },
+      { "id": 8, "date": "2025.05", "title": "恭賀！！品鈞榮獲日本大阪大學交換機會" },
+      { "id": 9, "date": "2024.03", "title": "恭賀！！伯輝逕直就讀博士班" },
+      { "id": 10, "date": "2024.03", "title": "歡迎 Mon 就讀博士班" },
+      { "id": 11, "date": "2025.01", "title": "恭賀！！Pop 榮獲第一屆院長盃拆電池大賽冠軍" },
+      { "id": 12, "date": "2024.12", "title": "恭賀！！妍曲榮獲化學日人氣獎" },
+      { "id": 13, "date": "2024.11", "title": "恭賀！！Betty 榮獲美國伊利諾大學交換機會，並拿到國科會千里馬計畫獎學金" },
+      { "id": 14, "date": "2024.11", "title": "恭賀！！妍曲錄取清華大學化學所" },
+      { "id": 15, "date": "2024.11", "title": "恭賀！！芸甄錄取台灣大學高分子所" },
+      { "id": 16, "date": "2024.11", "title": "恭賀！！Betty 榮獲大東樹酯獎學金" },
+      { "id": 17, "date": "2024.09", "title": "恭賀！！芸甄、妍曲榮獲校內大專生計畫" },
+      { "id": 18, "date": "2024.08", "title": "祝！！冠惠、佳靜、正文 畢業快樂" },
+      { "id": 19, "date": "2024.07", "title": "歡迎 韻騏、子涵 加入 JTL lab" },
+      { "id": 20, "date": "2024.01", "title": "恭賀！！柏霖逕直就讀博士班" },
+      { "id": 21, "date": "2024.01", "title": "祝！！Santosh、Swetha 博士班畢業快樂" }
+    ]
+  },
+  "contact": {
+    "title": "聯絡我們",
+    "centerName": "國立中央大學資訊管理學系",
+    "addressLabel": "地址：",
+    "addressLinkText": "國立中央大學管理二館",
+    "addressValue": "320317 桃園市中壢區五權里2鄰中大路300號",
+    "phoneLabel": "電話：",
+    "phoneValue": "(03) 4227151 分機：66535",
+    "faxLabel": "辦公室：",
+    "faxValue": "I1-927-1",
+    "emailLabel": "電子郵件：hsuwc@ncu.edu.tw"
+  },
+  "pageBanner": {
+    "defaultTitle": "頁面標題"
+  },
+  "research": {
+    "bannerTitle": "研究領域",
+    "mainTitle": "核心研究方向",
+    "description": "本實驗室整合資訊技術、管理學與行為科學，致力於解決健康醫療與數位服務領域的關鍵問題。我們透過實證研究與系統設計，探索科技與人類互動的最佳模式。",
+    "keywordsTitle": "研究關鍵字",
+    "areas": [
+      {
+        "icon": "fas fa-heartbeat fa-3x text-primary",
+        "title": "醫療資訊管理",
+        "description": "探討如何利用資訊技術優化醫療流程，提升病患照護品質與醫療機構的管理效率。",
+        "keywords": [
+          "健康資訊系統",
+          "數位醫療",
+          "遠距照護",
+          "醫療大數據"
+        ]
+      },
+      {
+        "icon": "fas fa-shopping-cart fa-3x text-primary",
+        "title": "電子商務",
+        "description": "研究數位轉型下的商業模式創新，以及消費者在網路環境中的決策與互動模式。",
+        "keywords": [
+          "數位行銷",
+          "平台經濟",
+          "社群商務",
+          "數位轉型"
+        ]
+      },
+      {
+        "icon": "fas fa-mouse-pointer fa-3x text-primary",
+        "title": "人機互動 (HCI)",
+        "description": "聚焦於使用者經驗 (UX) 設計，研究人類與資訊系統之間的互動行為、可用性與心理感受。",
+        "keywords": [
+          "使用者介面設計",
+          "眼動追蹤",
+          "情感運算",
+          "介面可用性"
+        ]
+      },
+      {
+        "icon": "fas fa-user-friends fa-3x text-primary",
+        "title": "消費者行為",
+        "description": "運用行為科學與心理學理論，深入分析使用者在採納與使用新技術時的動機與偏好。",
+        "keywords": [
+          "技術接受模型",
+          "線上信任",
+          "使用者黏著度",
+          "數位轉型行為"
+        ]
+      },
+      {
+        "icon": "fas fa-robot fa-3x text-primary",
+        "title": "智慧型服務",
+        "description": "整合 AI 與自動化技術，開發更具預測性、個性化且主動的智慧服務系統。",
+        "keywords": [
+          "AI 應用",
+          "聊天機器人",
+          "推薦系統",
+          "智慧生活"
+        ]
+      }
+    ]
+  },
+  "team": {
+    "bannerTitle": "Members",
+    "expertiseTitle": "專業領域",
+    "readMore": "READ MORE",
+    "categories": [
+      {
+        "title": "Ph.D. student 博士班",
+        "members": [
+          {
+             "name": "博士生一",
+             "image": "somebody.jpg",
+             "title": "博士生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "博士生二",
+             "image": "somebody.jpg",
+             "title": "博士生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "博士生三",
+             "image": "somebody.jpg",
+             "title": "博士生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Master students 碩士班",
+        "members": [
+          {
+            "name": "鄭惠文",
+            "image": "CMaster/grade2/鄭惠文Cheng_Hui_Wen.jpg",
+            "title": "碩士生",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Angelson 陳秉謙",
+            "image": "CMaster/grade2/Angelson 陳秉謙.jpg",
+            "title": "碩士生",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "吳心平",
+            "image": "CMaster/grade1/吳心平Aimee.jpg",
+            "title": "碩士生",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "李芝瑢",
+            "image": "CMaster/grade1/李芝瑢Julie.jpg",
+            "title": "碩士生",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Undergraduate 專題生",
+        "members": [
+          {
+             "name": "專題生一",
+             "image": "somebody.jpg",
+             "title": "專題生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "專題生二",
+             "image": "somebody.jpg",
+             "title": "專題生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "專題生三",
+             "image": "somebody.jpg",
+             "title": "專題生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Visiting Students 交換生",
+        "members": [
+          {
+             "name": "交換生一",
+             "image": "somebody.jpg",
+             "title": "交換生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "交換生二",
+             "image": "somebody.jpg",
+             "title": "交換生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "交換生三",
+             "image": "somebody.jpg",
+             "title": "交換生",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      },
+      {
+        "title": "Past members",
+        "members": [
+          {
+             "name": "畢業成員一",
+             "image": "somebody.jpg",
+             "title": "校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "畢業成員二",
+             "image": "somebody.jpg",
+             "title": "校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "畢業成員三",
+             "image": "somebody.jpg",
+             "title": "校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          }
+        ]
+      }
+    ]
+  },
+  "reports": {
+    "bannerTitle": "成果報導",
+    "publications": [
+      {
+        "year": 2025,
+        "papers": [
+          {
+            "title": "Characterizing the antecedent rainfall and ATI-MODIS-derived soil moisture content of shallow landslides in Taiwan.",
+            "authors": "Liou, Y.-A., Lin, J.-J.*",
+            "journal": "Landslides",
+            "details": "pp. 1-36",
+            "doi": "https://doi.org/10.1007/s10346-025-02495-x",
+            "tags": [
+              "SCI",
+              "IF: 5.800",
+              "RF: 20/254",
+              "Geosciences, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "The role of spectro-temporal remote sensing in vegetation classification: A comprehensive review integrating machine learning and bibliometric analysis.",
+            "authors": "Rehman, A. U., Raziq, A., Shrestha, B., Nguyen, K. A., & Liou, Y.-A.*",
+            "journal": "Computers and Electronics in Agriculture",
+            "details": "Vol. 234, 110184",
+            "doi": "https://doi.org/10.1016/j.compag.2025.110184",
+            "tags": [
+              "SCI",
+              "IF: 7.700",
+              "RF: 2/89",
+              "Agriculture, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "Enhancing Evacuation Shelter Suitability in Compound Hazard-Prone Regions with a Bayesian Optimized Convolutional Neural Network Approach.",
+            "authors": "Bera, S., Talukdar, S., Nguyen, K. A., Liou, Y. A.*, Guru, B., Chatterjee, R., & Ramana, G. V.",
+            "journal": "International Journal of Disaster Risk Reduction",
+            "details": "Vol. 119, 105306",
+            "doi": "https://doi.org/10.1016/j.ijdrr.2025.105306",
+            "tags": [
+              "SCI",
+              "IF: 4.200",
+              "RF: 34/254",
+              "Geosciences, Multidisciplinary"
+            ]
+          },
+          {
+            "title": "Surface Water Availability-Temperature Index (SWATI) for Global Drought Monitoring.",
+            "authors": "Thai, M.-T., Liou, Y.-A.*",
+            "journal": "IEEE Transactions on Geoscience and Remote Sensing",
+            "details": "Vol. 63, pp. 1-14, Art no. 4403714",
+            "doi": "https://doi.org/10.1109/TGRS.2025.3541287",
+            "tags": [
+              "SCI",
+              "IF: 7.500",
+              "RF: 25/352",
+              "Remote Sensing"
+            ]
+          }
+        ]
+      },
+      {
+        "year": 2024,
+        "papers": [
+          {
+            "title": "Comprehensive drought risk assessment and mapping in Taiwan: An ANP-ANN ensemble approach.",
+            "authors": "Liou, Y.-A.*, Vo, T.-H., Tran, D.-P., & Bui, H.-A.",
+            "journal": "Science of the Total Environment",
+            "details": "175835",
+            "doi": "https://doi.org/10.1016/j.scitotenv.2024.175835",
+            "tags": [
+              "SCI",
+              "IF: 8.200",
+              "RF: 31/358",
+              "Environmental Sciences"
+            ]
+          },
+          {
+            "title": "Comparative analysis of machine learning models for tropical cyclone intensity estimation.",
+            "authors": "Liou, Y.-A.*, Le, T.-V.",
+            "journal": "Remote Sensing",
+            "details": "16, 3138",
+            "doi": "https://doi.org/10.3390/rs16173138",
+            "tags": [
+              "SCI",
+              "IF: 4.200",
+              "RF: 34/253",
+              "Remote Sensing"
+            ]
+          },
+          {
+            "title": "Revealing the intricate relationship: Droughts and typhoons in Taiwan using the Standardized Precipitation Index (SPI).",
+            "authors": "Le, T.-V. and Y.-A. Liou*, and K.-A. Nguyen",
+            "journal": "Journal of Hydrology: Regional Studies",
+            "details": "Volume 55, 101917",
+            "doi": "https://doi.org/10.1016/j.ejrh.2024.101917",
+            "tags": [
+              "SCI",
+              "IF: 4.7",
+              "RF: 17/127",
+              "Water Resources"
+            ]
+          },
+          {
+            "title": "Assessing the impacts of temperature extremes on agriculture yield and projecting future extremes using machine learning and deep learning approaches with CMIP6 data.",
+            "authors": "Khan, F., Y.-A. Liou*, G. Spöck, X. Wang, S. Ali",
+            "journal": "International Journal of Applied Earth Observation and Geoinformation",
+            "details": "132, 104071",
+            "doi": "https://doi.org/10.1016/j.jag.2024.104071",
+            "tags": [
+              "SCI",
+              "IF: 7.600",
+              "RF: 6/62",
+              "Remote Sensing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "conferenceList": {
+    "bannerTitle": "歷年研討會",
+    "buttonText": "前往瀏覽",
+    "items": [
+      {
+        "year": "2025",
+        "title": "第一屆氣候極端與社會韌性國際論壇 (CESR 2025)",
+        "date": "2025年11月22-24日",
+        "location": "台灣桃園",
+        "description": "乾旱、熱害與暖化世界中的人類宜居性",
+        "link": "/icqab",
+        "image": "carousel/cesr_pic1.jpg"
+      }
+    ]
+  },
+  "conference": {
+    "header": {
+      "date": "2025年11月22-24日 | 國立中央大學，桃園，台灣",
+      "title": "第一屆氣候極端與社會韌性國際論壇：<br>乾旱、熱害與暖化世界中的人類宜居性",
+      "subtitle": "(CESR 2025)"
+    },
+    "registration": {
+      "title": "研討會報名 & 聯絡資訊",
+      "description": "歡迎線上報名參加 CESR 2025。點擊下方按鈕或掃描右側 QR code 即可前往報名頁面。若有任何疑問，請隨時與我們聯繫。",
+      "button_register": "線上報名",
+      "button_inquiry": "報名相關聯絡表單",
+      "contact_title": "聯絡窗口",
+      "qr_alt": "Registration QR Code",
+      "qr_caption": "掃描 QR Code 報名"
+    },
+    "online_participation": {
+      "title": "線上參加連結",
+      "description": "歡迎透過線上方式參與 CESR 2025。請於會議時間點擊下方連結進入線上會議室。",
+      "button_link": "進入線上會議"
+    },
+    "venue": {
+      "title": "會議地點 & 場地資訊",
+      "main_hall_title": "會議地點：國立中央大學太空及遙測研究中心",
+      "host_by": "主辦單位:",
+      "co_hosted_by": "協辦單位",
+      "advised_by": "指導單位:",
+      "surroundings_map": "周邊路線圖",
+      "campus_map": "校園建物圖"
+    },
+    "sections": [
+      {
+        "title": "重要日程 (Important Dates)",
+        "content": "<div><ul class=\"styled-list\"><li><b>Abstract submission deadline:</b> October 22, 2025</li><li><b>Notification of abstract acceptance:</b> November 18, 2025</li><li><b>Registration Deadline:</b> November 20, 2025</li><li><b>Conference date:</b> November 22-24 ,2025, with registration beginning on November 22.</li></ul></div>"
+      },
+      {
+        "title": "緣起 (Introduction)",
+        "content": "<p>台灣暨全球乾旱調查與研究中心（TGDIRC / DroughtHub）成立於2024年，由國立中央大學太空及遙測研究中心主導設立，致力於整合全球乾旱監測、預警及適應策略之研究發展。中心成立的核心使命在於因應日益嚴峻的全球氣候變遷挑戰，特別是乾旱與熱害等極端氣候事件對人類社會造成的深遠衝擊。</p><p>聯合國政府間氣候變化專門委員會（Intergovernmental Panel on Climate Change, IPCC）第六次評估報告明確指出，全球暖化將導致乾旱事件更加頻繁且嚴重，預計到2050年，全球將有超過50億人面臨水資源短缺問題。台灣作為氣候變遷高風險區域，近年來已深刻體驗到這一趨勢：2021年的百年大旱造成全台供水危機，經濟損失超過千億元；2023年連續破紀錄的極端高溫事件，不僅衝擊能源系統，更直接威脅民眾健康與生活品質。</p><p>面對這些前所未有的挑戰，單一國家或機構的努力已無法有效因應。國際科學界普遍認知，唯有透過跨國界、跨領域的合作研究與知識共享，才能發展出有效的解決方案。TGDIRC正是在此背景下應運而生，致力於建立一個整合型的國際研究平台。</p><p>自成立以來，TGDIRC積極與美國國家乾旱減緩中心（National Drought Mitigation Center, NDMC）、澳洲聯邦科學與工業研究組織(Commonwealth Scientific and Industrial Research Organisation, CSIRO）、歐盟氣候調適中心...等國際頂尖機構建立合作關係，並參與聯合國減災辦公室（The United Nations Office for Disaster Risk Reduction, UNDRR）及世界氣象組織（World Meteorological Organization, WMO）相關倡議。同時，中心也與亞太地區面臨相似挑戰的國家建立研究夥伴關係，包括日本、韓國、澳洲、印度、越南...等。</p><p>為建立一個常設性的國際學術交流與政策對話平台，匯聚全球在氣候極端事件、社會韌性及人類宜居性領域的頂尖專家智慧，TGDIRC特別規劃舉辦首屆「氣候極端與社會韌性國際論壇」。本論壇旨在成為亞太地區乃至全球氣候科學領域的重要年度盛會，為推動國際合作、促進知識創新、強化政策制定科學基礎建立長期機制。</p><p>透過此論壇的舉辦，我們期望不僅能展現台灣在氣候科學研究領域的實力與國際貢獻，更能為全球社會面對氣候變遷挑戰提供創新的解決途徑，共同為維護人類在暖化世界中的宜居環境而努力。</p>"
+      },
+      {
+        "title": "舉辦目的 (Objectives)",
+        "content": "<p>本論壇致力於發展全球最具影響力的氣候極端事件與社會韌性研究交流平台，匯聚跨領域頂尖專家智慧，為人類在暖化世界中的永續生存提供創新解決方案。採用實體會議形式舉行，強調面對面深度交流與合作網絡的發展，論文投稿採用英文摘要制，確保國際學術交流的高度整合性。</p><p>論壇聚焦於乾旱監測預警、熱害健康衝擊、水資源安全、農業韌性、生態系統調適、能源系統穩定性、都市氣候治理、災害風險管理等核心議題，建立從科學研究到政策實踐的完整知識鏈。基於TGDIRC「推動全球氣候韌性、守護人類宜居未來」的創立使命，本論壇具備以下戰略目的與核心價值：</p><ol><li><b>引領全球氣候科學</b><br>特別強調人工智慧、衛星遙測、大數據分析等尖端技術的整合，建立次世代兼具長期且即時的氣候監測預警系統，並邀請全球頂尖科學家共同探討理論與實務化的優化與最佳化，藉由推動前瞻性的實務技術應用以及與理論的深度對話交流，為全球氣候極端事件研究樹立新標竿，推動科學創新從跟隨者轉為引領者。從過去的回應挑戰，進一步轉型為預測挑戰，並建立多元解決方案。</li><li><b>打造國際科學研究生態圈</b><br>台灣在氣候研究上具備獨特的地理位置與研究優勢，本論壇將藉由與國際化學術界接軌，建立跨領域戰略夥伴關係，打造台灣成為亞太氣候科學樞紐，透過TGDIRC平台深化與美、歐、澳等頂尖研究機構的策略夥伴關係，建立常設性的全球專家網絡，促進長期研究合作並且提倡與鼓勵青年學者與國際間的交流對話，目的旨在將台灣塑造成全球氣候治理中的知識與政策交流橋樑的角色，並提升台灣在國際氣候治理議題上的話語權與影響力。</li><li><b>強化國家氣候韌性</b><br>建立「科學→政策→實踐」的完整轉化機制，將科學成果有效轉化成實務政策建議並且協助政府落實於社會與產業之中。為政府提供具前瞻性的氣候調適戰略，從被動因應轉為主動預防，在今後的氣候變遷災害發生時，台灣可從單純的受災者角色轉變為解方提供者，並且成為全球氣候韌性治理的典範案例。</li><li><b>促進永續發展目標實現</b><br>緊密結合聯合國2030永續發展議程，特別針對SDG 6（清潔飲水）、SDG 11（永續城市）、SDG 13（氣候行動）、SDG 15（陸域生態）提出水資源、都市韌性、氣候變遷因應以及自然環境保護等領域的突破性解決方案，確保會議成果能對永續發展議程產生實質影響，並展現台灣對全球永續發展的實質貢獻。</li><li><b>催化跨領域創新整合</b><br>氣候挑戰的解決方案不僅之依靠單一學科的深化探討，藉由突破傳統學科界線，促進氣候科學、公共衛生、社會學、經濟學、工程技術等領域的深度融合，培育具備系統思維的新世代氣候專家，並催生新的研究領域知識前沿與創新政策戰略框架，推動解決方案從單點突破轉向系統性創新。</li><li><b>建立全球知識共享機制</b><br>建立一開放式國際研究平台，激勵跨國研究團隊交流與協作，促進資料共享、技術轉移、人才交流，確保氣候科學研究成果能快速轉化為全球公共福祉，讓科學知識真正服務於人類命運共同體的建構。</li></ol>"
+      },
+      {
+        "title": "預期效益 (Expected Impacts)",
+        "content": "<ol><li><b>建構全球氣候韌性研究生態系</b><br>深化台灣與全球頂尖氣候研究機構的策略夥伴關係，包括美國國家乾旱減緩中心、歐盟氣候調適中心、澳洲CSIRO等，建立常設性的國際專家網絡。透過論壇平台促成至少5項大型國際合作計畫啟動，將台灣打造為亞太地區氣候極端事件研究的核心樞紐，顯著提升我國在國際氣候科學領域的話語權與影響力。</li><li><b>催化跨領域創新研究突破</b><br>藉由八大核心議題（乾旱監測預警、熱害健康衝擊、水資源韌性、農業調適、生態系統保護、能源安全、都市氣候治理、災害風險管理）的深度分組研討，突破傳統學科界線，促進氣候科學與公共衛生、社會學、經濟學、人工智慧等領域的創新整合。預期產出10項以上具突破性的跨領域研究提案，為全球氣候挑戰提供台灣原創的解決方案。</li><li><b>強化國家氣候調適治理能力</b><br>聚焦台灣面臨的乾旱與熱害雙重威脅，深入研討早期預警系統建置、水資源智慧管理、都市熱島緩解、農業韌性提升、健康防護機制等關鍵議題。建立「科學研究→政策制定→實務應用」的完整轉化機制，為政府提供具前瞻性與可操作性的氣候調適戰略，預期可減少極端氣候事件造成的社會經濟損失達30%以上，將台灣發展為全球氣候韌性治理的典範案例。</li><li><b>推動國際級學術影響力躍升</b><br>建立嚴格的國際同儕審查機制，編印《氣候極端與社會韌性研究專刊》，達到國際頂尖期刊標準。優秀研究成果將推薦至高影響力期刊發表，預期產出SCI論文5篇以上，總影響因子超過10。同時建立TGDIRC年度報告機制，成為全球氣候政策制定的重要參考依據，大幅提升台灣氣候科學研究的國際學術地位與實務影響力。</li><li><b>培育次世代氣候科學領袖</b><br>為國內外研究生與年輕學者提供與國際頂尖專家深度交流的機會，建立全球氣候科學人才培育網絡。設立「青年學者最佳論文獎」與「國際交流獎學金」，支持優秀人才赴國外進行為期6個月以上的合作研究。預期培育具備國際視野與系統思維的氣候專家50名以上，為台灣氣候科學的長期發展奠定堅實人才基礎。</li><li><b>建立永續知識共享機制</b><br>建構開放式線上研究平台，促進全球氣候數據、監測技術、調適策略的即時共享。建立TGDIRC數位知識庫，收錄全球乾旱與熱害相關研究成果，成為國際氣候科學界的重要資源中心。透過定期發布《全球氣候極端事件監測報告》，為聯合國、世界銀行等國際組織提供科學決策支持，展現台灣對全球氣候治理的實質貢獻。</li></ol>"
+      },
+      {
+        "title": "研討會主題 (Conference Themes)",
+        "content": "<ul class=\"themes-list\"><li class=\"accent-box\"><h4>專題一：乾旱監測與預警技術</h4><p>乾旱是全球最具破壞性的自然災害之一，其影響因橫跨農業生產、水資源管理、能源供應，而可能對生態系統穩定性與社會經濟發展成巨大衝擊。隨著極端的氣候變遷對環境產生的劇烈變化，乾旱事件的發生頻率與強度正在逐漸增強，建立系統且科學化的乾旱監測與預警技術已成為國際迫切的研究與政策需求。本主題將聚焦於多來源的數據整合與應用，包含衛星監測、地面觀測網路、氣候變遷模擬等前沿尖端技術應用，提升對乾旱發展過程的即時監控與預測能力。<br>主體內容將涵蓋但不限於：<br>1. 監測技術的創新應用<br>2. 乾旱指標的設計、比較與改良<br>3. 人工智慧與大數據分析在乾旱監測與早期預警中的應用<br>4. 跨區域乾旱監測平台與決策支持系統的建置<br>5. 農業與生態系統層面的乾旱影響評估方法<br>6. 氣候模式模擬與乾旱事件預測</p></li><li class=\"accent-box\"><h4>專題二：熱島效應與都市氣候調適</h4><p>都市化快速發展與全球暖化加劇，熱島效應因加劇能源需求與基礎設施負擔，影響居民健康與社會安全性，已成為高密度人口聚集區所面臨的重大挑戰。本主題聚焦於熱島效應的成因、監測技術與多層次調適策略，期望建立兼顧科學基礎、工程技術與社會治理的完整對策。<br>主題內容將涵蓋但不限於：<br>1. 熱島效應機制與驅動因素<br>2. 數位技術在都市熱監測技術中的應用<br>3. 都市氣候模擬與熱浪衝擊預測模型<br>4. 智慧城市技術在降溫與節能中的角色<br>5. 都市更新與土地利用規劃在緩解熱島效應上的成效評估<br>6. 數位科技結合綠色建築的永續發展</p></li><li class=\"accent-box\"><h4>專題三：氣候政策、水資源管理與社會韌性</h4><p>氣候變遷為水循環系統的穩定性帶來劇烈的影響，乾旱、洪水與其他環境汙染導致水資源問題日益嚴峻。如何透過前瞻性的氣候政策與有效的水資源管理，來提升社會的韌性與適應能力，已成為各國共同面對的重要課題。本主題將聚焦於跨領域治理與多方利益相關者的協作，關注政策、管理、社會創新三種視角，建立兼具公平性與永續性的水資源治理策略框架。<br>主題內容將涵蓋但不限於：<br>1. 氣候變遷下的水資源治理政策與制度設計水文科學、公共政策、經濟學與社會學整合的跨領域韌性<br>2. 跨流域或跨國水資源管理合作機制<br>3. 智慧水網、物聯網與人工智慧在水資源調控中的應用<br>4. 地下水開發、再生水利用與非常態水資源調適策略<br>5. 水資源風險管理與社會公平<br>6. 面對極端乾旱與洪災的水資源韌性評估與決策支持方法</p></li><li class=\"accent-box\"><h4>專題四：氣候變遷健康衝擊</h4><p>氣候變遷已成為21世紀最嚴峻的公共衛生挑戰之一。極端高溫、乾旱、水資源短缺及極端氣候事件，正直接或間接威脅人類健康與社會發展。氣候衝擊帶來中暑、心血管疾病、傳染病擴散、糧食與營養安全惡化等問題，加劇健康不平等，使弱勢族群承受更高風險，對社會穩定性造成潛在的波動與衝擊。本主題聚焦於科學研究、健康風險評估與政策實踐，徵求跨領域研究成果與案例分享，推動建構健康導向的氣候調適策略。<br>主題內容將涵蓋但不限於：<br>1. 高溫與熱浪對心血管、呼吸系統疾病的影響評估<br>2. 氣候變遷與傳染病流行<br>3. 氣候衝擊下的心理健康與社會壓力研究<br>4. 醫療體系的氣候韌性建構<br>5. 氣候變遷與公共衛生管理風險的關聯性<br>6. 健康脆弱族群的保護措施應用</p></li><li class=\"accent-box\"><h4>專題五：極端氣候的經濟影響評估</h4><p>乾旱、洪水、熱浪與颶風等極端氣候事件不僅造成基礎設施與生產系統的直接損害，更透過供應鏈中斷、能源價格波動、勞動力損失與保險成本上升，對整體經濟造成深遠影響。如何量化並評估這些衝擊，並進一步提出具體的財務、政策與市場應對方案，是提升社會韌性的重要基礎。本主題會議聚焦於極端氣候下的多元產業的生產供應鏈以及市場環境的經濟風險評估與調適策略。<br>主題內容將包含但不限於：<br>1. 災害風險模型、保險精算與再保險機制設計<br>2. 氣候事件對能源市場、農業產值與供應鏈的影響<br>3. ESG框架下的經濟風險評估<br>4. 中小企業與地方社區面對極端氣候的經濟脆弱性與調適策略<br>5. 氣候移民、人口遷徙對勞動市場與地方經濟的影響<br>6. 都市、社群... [truncated]"
+      },
+      {
+        "title": "會議資訊 (Conference Information)",
+        "isStructured": true,
+        "content": {
+          "intro": "2025 International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World <br>第一屆氣候極端與社會韌性國際論壇：乾旱、熱害與暖化世界中的人類宜居性",
+          "details": [
+            {
+              "label": "會議時間",
+              "value": "中華民國 2025 年 11 月 22 日(日)至 11 月 24 日(二)"
+            },
+            {
+              "label": "會議地點",
+              "value": "國立中央大學太空及遙測研究中心"
+            },
+            {
+              "label": "主辦單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "台灣暨全球乾旱調查與研究中心 (TGDIRC / DroughtHub)",
+                  "logo": "DroughtHub.jpg",
+                  "alt": "DroughtHub Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "協辦單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "桃園市政府環境保護局",
+                  "logo": "桃園市環保局.png",
+                  "alt": "桃園市環保局 Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "社團法人台灣地球觀測學會 (TGEO)",
+                  "logo": "tgeo_logo.png",
+                  "alt": "TGEO Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "國際工程與科技學會中華民國分會 (IET Taipei Local Network)",
+                  "logo": "IET_Logo.png",
+                  "alt": "IET Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "指導單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "國立中央大學 (NCU)",
+                  "logo": "logo.png",
+                  "alt": "NCU Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "桃園市政府",
+                  "logo": "桃園市.png",
+                  "alt": "桃園市政府 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "國家科學及技術委員會",
+                  "logo": "nstc_logo.png",
+                  "alt": "NSTC Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "農業部",
+                  "logo": "agriculture_logo.jpg",
+                  "alt": "農業部 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "大會主席",
+              "value": "劉說安 講座教授"
+            }
+          ]
+        }
+      },
+      {
+        "title": "講者名單 (Speakers)",
+        "content": "<h3 class=\"speakers-subtitle\">Plenary Session Speakers</h3><ul class=\"styled-list\"><li><a href=\"https://cee.mit.edu/people_individual/dara-entekhabi/\" target=\"_blank\"><b>Dara Entekhabi</b></a><br><p><b>教授／院士</b><br>M.I.T.教授暨美國國家工程院院士<br>專長涵蓋 遙感地球科學、陸氣交互作用、水文模擬與地表水—地下水相互作用</p><div class=\"accent-box\"><h4>演講題目：Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</h4></div><div class=\"accent-box\"><h4>演講題目: The Drought Cascade and Drought Amplification Due to Heat Waves</h4></div></li><li><a href=\"https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/takashi_oguchi/\"><b>Takashi Oguchi</b></a><br><p><b>教授／會長</b><br>日本東京大學教授<br>現任 國際地貌學會（IAG）副會長、日本地球科學聯合會（JpGU）副會長、日本地理學會會長<br>曾任日本地貌學會與日本地理資訊系統學會會長<br>在地貌學與空間資訊領域具深厚造詣與國際影響力<div class=\"accent-box\"><h4>演講題目：Emerging necessity of drought-related geomorphological research in Japan and Taiwan</h4></li><li><a href=\"https://www.gcrf-agriplastics.uk/project-team/vietnam/\" target=\"_blank\"><b>Trần Minh Tiến</b></a><br><p><b>教授／副院長</b><br>越南農業科學院（VAAS）副院長<br>本論壇為「DroughtHub乾旱韌性研究計畫」之一環<br>Tiến 教授將率領代表團參與雙邊會議與學術交流，聚焦於乾旱調適與農業創新之合作研究</p><div class=\"accent-box\"><h4>演講題目：Current State of Rice Soil Health in Vietnam and Solutions for Improvement</h4></div></li><li><a href=\"https://engineering.virginia.edu/faculty/venkataraman-lakshmi\" target=\"_blank\"><b>Venkataraman (Venkat) Lakshmi</b></a><br><p><b>講座教授／會長</b><br>美國維吉尼亞大學 John L. Newcomb 講座教授<br>美國地球物理聯盟（AGU）水文學會會長<br>專長涵蓋 水文遙測 與 氣候變遷衝擊評估</p><div class=\"accent-box\"><h4>演講題目：Observing hydrological extremes from space</h4></li><li><a href=\"https://ap.fftc.org.tw/author/2216\" target=\"_blank\"><b>Ngo Duc Minh</b></a><br><p><b>首席研究員</b><br>越南農業科學院<br>專長涵蓋 土壤科學、氣候智慧型農業、低碳與有機農業及可持續農業食品系統</p><div class=\"accent-box\"><h4>演講題目：Current Status of National Policy of Soil Health Governance in Vietnam</h4></div></li><li><a href=\"https://sciprofiles.com/profile/996709\" target=\"_blank\"><b>Swapan Talukdar</b></a><br><p><b>助理教授</b><br>Asutosh College 加爾各答大學<br>專長涵蓋 環境永續發展、水資源管理、遙測、人工智慧與機器學習應用</p><div class=\"accent-box\"><h4>演講題目：Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</h4></div></li><li><a href=\"https://tiss.ac.in/view/9/employee/praveen-kumar/\" target=\"_blank\"><b>Praveen Kumar</b></a><br><p><b>助理教授</b><br>印度孟買塔塔社會科學院<br>專長涵蓋 社會—生態系統、氣候變遷脆弱性與調適、氣候風險</p><div class=\"accent-box\"><h4>演講題目：Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</h4></div></li><li><a href=\"https://ucentralasia.org/faculty-and-staff/dr-ben-jarihani\" target=\"_blank\"><b>Ben Jarihani</b></a><br><p>澳洲詹姆士庫克大學 副教授<br>專長涵蓋 水文學、遙測與地理資訊系統（GIS）、流域建模與自然資源管理</p><div class=\"accent-box\"><h4>演講題目：Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</h4></div></li><li><a href=\"https://au.linkedin.com/in/lisa-law-48739191\" target=\"_blank\"><b>Lisa Law</b></a><br><p>澳洲詹姆士庫克大學 副教授<br>專長涵蓋 東南亞與熱帶澳洲城市研究、宜居性與地方導向都市設計</p><div class=\"accent-box\"><h4>演講題目：Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</h4></div></li><li><a href=\"https://scholar.google.com/citations?user=f_NFqRgAAAAJ&hl=en\" target=\"_blank\"><b>Rafael Cabral Carvalho</b></a><br><p>澳洲詹姆士庫克大學 講師<br>專長涵蓋 海岸地貌、沉積學與海洋地理資訊系統分析</p><div class=\"accent-box\"><h4>演講題目：Droughts and deltas: an Earth Science perspective on climate change, societal development</h4></div></li><li><a href=\"https://www.yunuscenterait.org/aboutdrfaiz\" target=\"_blank\"><b>Faiz Shah</b></a><br><p><b>執行長</b><br>泰國亞洲理工學院尤努斯中心<br>專長涵蓋 社會企業、永續發展、企業責任與基層創新培力</p><div class=\"accent-box\"><h4>演講題目：Social Business as a lever for Climate Resilience</h4></div></li><li><a href=\"https://kzzl.urk.edu.pl/pracownicy/piotrwezyk-4.html\" target=\"_blank\"><b>Piotr Wezyk</b></a><br><p><b>教授</b><br>波蘭克拉科夫農業大學<br>專長涵蓋 LiDAR 掃描與遙測應用、城市與經濟林管理、時空 GIS 分析及城市綠地生態系服務</p><div class=\"accent-box\"><h4>演講題目：Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</h4></div></li><li><a href=\"https://vneat.org/?page_id=286&utm_source=chatgpt.com&lang=en\" target=\"_blank\"><b>Nguyen Kim Anh</b></a><br><p><b>資深研究員</b><br>越南國家太空中心<br>專長涵蓋 生態環境脆弱性評估、自然災害與城市綠地管理</p><div class=\"accent-box\"><h4>演講題目：Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</h4></div></li><li><a href=\"https://aasb.gov.au/board-members/prof-carolyn-cordery/\" target=\"_blank\"><b>Carolyn Cordery</b></a><br><p><b>執行長／教授</b><br>紐西蘭會計準則委員會 / 威靈頓維多利亞大學<br>專長涵蓋 非營利組織會計、公共部門審計與國際財務報告標準比較</p><div class=\"accent-box\"><h4>演講題目：Community resilience: preparing and responding to climate-driven events</h4></div></li><li><a href=\"https://www.researchgate.net/profile/Susanta-Mahato\" target=\"_blank\"><b>Susanta Mahato</b></a><br><p><b>助理教授</b><br>哈里辛格古爾博士大學<br>專長涵蓋 陸氣交互作用、城市氣候動力學、熱遙測與應用地理空間分析</p><div class=\"accent-box\"><h4>演講題目：Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</h4></div></li></ul>"
+      },
+      {
+        "title": "議程 (Agenda)",
+        "content": "<div class=\"agenda-container\"><p>CESR 2025 議程表</p><!-- 第一天 --><h4 class=\"agenda-day-title\">第一天 - 11月 22日 (日) | Registration</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>14:00 - 17:00</td><td style='text-align: center; vertical-align: middle;'>Registration <br>The exact check-in time will be notified individually.</td></tr></tbody></table><!-- 第二天 --><h4 class=\"agenda-day-title\">第二天 - 11 月 24 日 (一)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>來賓報到</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p>開幕典禮與合影</p><p>主持: 劉說安 講座教授暨IAA院士</p><table style='width: 100%; margin-top: 10px;'><tbody><tr><td style='width: 33.33%;'>國立中央大學綦振瀛副校長</td><td style='width: 33.33%;'>國立中央大學張中白國際長</td><td style='width: 33.33%;'>桃園市政府環境保護局顏己喨局長</td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:00</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講一</span></p><p>主持人: 劉說安 講座教授暨IAA院士</p><p>講者：Dara Entekhabi, M.I.T.教授暨美國國家工程院院士</p><p>Topic: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:00-10:20</td><td style='text-align: center; vertical-align: middle;'>茶敘</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:20-12:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次一 主持人：郭政靈 教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 40分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Venkataraman (Venkat) Lakshmi<br><small>美國維吉尼亞大學講座教授暨AGU水文分會主席</small></td><td style='text-align: left; vertical-align: top;'>Using AI/ML in hydrology: Two case studies</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Ngo Duc Minh<br><small>越南農業科學院 首席研究員</small></td><td style='text-align: left; vertical-align: top;'>Current Status of National Policy of Soil Health Governance in Vietnam</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Swapan Talukdar<br><small>Asutosh College 加爾各答大學 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Praveen Kumar<br><small>塔塔社會科學院 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>午餐</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:00-13:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講二</span></p><p>主持人：姜壽浩 副教授</p><p>講者：Takashi Oguchi 日本東京大學教授</p><p>Topic: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-15:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>雙邊工作坊：Bridging Hubs for Drought Resilience: TGI & TNQ DroughtHubs Joint Workshop</b></p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) 林唐煌<br>太空及遙測研究中心主任</td><td style='text-align: left; vertical-align: top;'>CSRSR: Advancing Earth Observation for Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.)劉說安<br>講座教授暨台灣暨全球乾旱調查與研究中心籌備處負責人</td><td style='text-align: left; vertical-align: top;'>TGI DroughtHub: Building Pathways for Drought Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Ben Jarihani<br>澳洲詹姆士庫克大學 副教授</td><td style='text-align: left; vertical-align: top;'>Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Lisa Law<br>澳洲詹姆士庫克大學 副教授</td><td style='text-align: left; vertical-align: top;'>Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</td></tr><tr><td style='text-align: left; vertical-align: top;'>(5.) Rafael Cabral Carvalho<br>澳洲詹姆士庫克大學 講師</td><td style='text-align: left; vertical-align: top;'>Droughts and deltas: an Earth Science perspective on climate change, societal development</td></tr><tr><td style='text-align: left; vertical-align: top;'>(6.)討論</td><td style='text-align: left; vertical-align: top;'></td></tr><tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>15:00-15:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講三</span></p><p>主持人：姜壽浩 副教授</p><p>講者：Tran Minh Tien 越南農業科學院副院長<br><p>Topic: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>15:30-16:00</td><td style='text-align: center; vertical-align: middle;'>茶敘 / 學生實作展示</td></tr><tr><td style='text-align: center; vertical-align: middle;'>16:00-17:40</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次二 主持人：沈建文 教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 40分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Faiz Shah<br><small>泰國亞洲理工學院尤努斯中心執行長</small></td><td style='text-align: left; vertical-align: top;'>Social Business as a lever for Climate Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Piotr Wezyk<br><small>波蘭克拉科夫農業大學 教授</small></td><td style='text-align: left; vertical-align: top;'>Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Nguyen Kim Anh<br><small>越南國家太空中心 資深研究員</small></td><td style='text-align: left; vertical-align: top;'>Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Carolyn Cordery<br><small>紐西蘭會計準則委員會 執行長/威靈頓維多利亞大學 教授</small></td><td style='text-align: left; vertical-align: top;'>Community resilience: preparing and responding to climate-driven events</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:00</td><td style='text-align: center; vertical-align: middle;'>會議晚宴 – 新陶芳庭園餐廳 (邀請制)</td></tr></tbody></table><!-- 第三天 --><h4 class=\"agenda-day-title\">第三天 - 11 月 25 日 (二)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>來賓報到</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講四</span></p><p>主持人：曾筱珽 副教授</p><p>講者：Venkataraman (Venkat) Lakshmi美國維吉尼亞大學講座教授暨AGU水文分會主席</p><p>Topic: Observing hydrological extremes from space</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:20</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次三 主持人：羅月霞 副教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 20分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Dara Entekhabi<br><small>M.I.T. 講座教授暨美國國家工程院院士</small></td><td style='text-align: left; vertical-align: top;'>The Drought Cascade and Drought Amplification Due to Heat Waves</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Susanta Mahato<br><small>哈里辛格古爾博士大學 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</td></tr></tbody></table></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:20-10:40</td><td style='text-align: center; vertical-align: middle;'>茶敘</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:40-11:50</td><td style='text-align: center; vertical-align: middle;'>乾旱中心策略發展論壇</td></tr><tr><td style='text-align: center; vertical-align: middle;'>11:50-12:00</td><td style='text-align: center; vertical-align: middle;'>閉幕典禮</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>午餐</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-17:30</td><td style='text-align: center; vertical-align: middle;'>會後參訪</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:30</td><td style='text-align: center; vertical-align: middle;'>再會晚宴 (邀請制)</td></tr></tbody></table></div>"
+      }
+    ],
+    "info": {
+      "registration": {
+        "url": "https://forms.gle/LfjM1nqKa47ufQvG6",
+        "inquiryUrl": "https://forms.gle/VtF3gfEKZMBKY6pr8"
+      },
+      "onlineParticipation": {
+        "url": "https://calendar.app.google/Adcb3GcPZCywBSk46"
+      },
+      "location": {
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.958075318055!2d121.18223309678957!3d24.967540999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346823c26571829b%3A0x4405dd3d60240444!2z5Lit5aSu5aSn5a245aSq56m65Y-K6YGZ5ris56CU56m25Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1761738883357!5m2!1szh-TW!2stw"
+      },
+      "host": {
+        "venue": "國立中央大學",
+        "hosts": [
+          {
+            "name": "台灣暨全球乾旱調查與研究中心 (TGDIRC / DroughtHub)",
+            "logo": "DroughtHub.jpg",
+            "alt": "DroughtHub Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "coHosts": [
+          {
+            "name": "桃園市政府環境保護局",
+            "logo": "桃園市環保局.png",
+            "alt": "桃園市環保局 Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "社團法人台灣地球觀測學會 (TGEO)",
+            "logo": "tgeo_logo.png",
+            "alt": "TGEO Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "國際工程與科技學會中華民國分會 (IET Taipei Local Network)",
+            "logo": "IET_Logo.png",
+            "alt": "IET Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "advisors": [
+          {
+            "name": "國立中央大學 (NCU)",
+            "logo": "logo.png",
+            "alt": "NCU Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "桃園市政府",
+            "logo": "桃園市.png",
+            "alt": "桃園市政府 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "國家科學及技術委員會",
+            "logo": "nstc_logo.png",
+            "alt": "NSTC Logo",
+            "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "農業部",
+            "logo": "agriculture_logo.jpg",
+            "alt": "農業部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "教育部",
+            "logo": "教育部.png",
+            "alt": "教育部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          }
+        ]
+      }
+    }
+  },
+  "conference2026": {
+    "header": {
+      "date": "2026年11月22-24日 | 國立中央大學，桃園，台灣",
+      "title": "第二屆氣候極端與社會韌性國際論壇：<br>乾旱、熱害與暖化世界中的人類宜居性",
+      "subtitle": "(CESR 2026)"
+    },
+    "registration": {
+      "title": "研討會報名 & 聯絡資訊",
+      "description": "歡迎線上報名參加 CESR 2026。點擊下方按鈕或掃描右側 QR code 即可前往報名頁面。若有任何疑問，請隨時與我們聯繫。",
+      "button_register": "線上報名",
+      "button_inquiry": "報名相關聯絡表單",
+      "contact_title": "聯絡窗口",
+      "qr_alt": "Registration QR Code",
+      "qr_caption": "掃描 QR Code 報名"
+    },
+    "online_participation": {
+      "title": "線上參加連結",
+      "description": "歡迎透過線上方式參與 CESR 2026。請於會議時間點擊下方連結進入線上會議室。",
+      "button_link": "進入線上會議"
+    },
+    "venue": {
+      "title": "會議地點 & 場地資訊",
+      "main_hall_title": "會議地點：國立中央大學太空及遙測研究中心",
+      "host_by": "主辦單位:",
+      "co_hosted_by": "協辦單位",
+      "advised_by": "指導單位:",
+      "surroundings_map": "周邊路線圖",
+      "campus_map": "校園建物圖"
+    },
+    "sections": [
+      {
+        "title": "重要日程 (Important Dates)",
+        "content": "<div><ul class=\"styled-list\"><li><b>Abstract submission deadline:</b> October 22, 2026</li><li><b>Notification of abstract acceptance:</b> November 18, 2026</li><li><b>Registration Deadline:</b> November 20, 2026</li><li><b>Conference date:</b> 2026年11月22-24日 , with registration beginning on November 21.</li></ul></div>"
+      },
+      {
+        "title": "緣起 (Introduction)",
+        "content": "<p>台灣暨全球乾旱調查與研究中心（TGDIRC / DroughtHub）成立於2024年，由國立中央大學太空及遙測研究中心主導設立，致力於整合全球乾旱監測、預警及適應策略之研究發展。中心成立的核心使命在於因應日益嚴峻的全球氣候變遷挑戰，特別是乾旱與熱害等極端氣候事件對人類社會造成的深遠衝擊。</p><p>聯合國政府間氣候變化專門委員會（Intergovernmental Panel on Climate Change, IPCC）第六次評估報告明確指出，全球暖化將導致乾旱事件更加頻繁且嚴重，預計到2050年，全球將有超過50億人面臨水資源短缺問題。台灣作為氣候變遷高風險區域，近年來已深刻體驗到這一趨勢：2021年的百年大旱造成全台供水危機，經濟損失超過千億元；2023年連續破紀錄的極端高溫事件，不僅衝擊能源系統，更直接威脅民眾健康與生活品質。</p><p>面對這些前所未有的挑戰，單一國家或機構的努力已無法有效因應。國際科學界普遍認知，唯有透過跨國界、跨領域的合作研究與知識共享，才能發展出有效的解決方案。TGDIRC正是在此背景下應運而生，致力於建立一個整合型的國際研究平台。</p><p>自成立以來，TGDIRC積極與美國國家乾旱減緩中心（National Drought Mitigation Center, NDMC）、澳洲聯邦科學與工業研究組織(Commonwealth Scientific and Industrial Research Organisation, CSIRO）、歐盟氣候調適中心...等國際頂尖機構建立合作關係，並參與聯合國減災辦公室（The United Nations Office for Disaster Risk Reduction, UNDRR）及世界氣象組織（World Meteorological Organization, WMO）相關倡議。同時，中心也與亞太地區面臨相似挑戰的國家建立研究夥伴關係，包括日本、韓國、澳洲、印度、越南...等。</p><p>為建立一個常設性的國際學術交流與政策對話平台，匯聚全球在氣候極端事件、社會韌性及人類宜居性領域的頂尖專家智慧，TGDIRC特別規劃舉辦首屆「氣候極端與社會韌性國際論壇」。本論壇旨在成為亞太地區乃至全球氣候科學領域的重要年度盛會，為推動國際合作、促進知識創新、強化政策制定科學基礎建立長期機制。</p><p>透過此論壇的舉辦，我們期望不僅能展現台灣在氣候科學研究領域的實力與國際貢獻，更能為全球社會面對氣候變遷挑戰提供創新的解決途徑，共同為維護人類在暖化世界中的宜居環境而努力。</p>"
+      },
+      {
+        "title": "舉辦目的 (Objectives)",
+        "content": "<p>本論壇致力於發展全球最具影響力的氣候極端事件與社會韌性研究交流平台，匯聚跨領域頂尖專家智慧，為人類在暖化世界中的永續生存提供創新解決方案。採用實體會議形式舉行，強調面對面深度交流與合作網絡的發展，論文投稿採用英文摘要制，確保國際學術交流的高度整合性。</p><p>論壇聚焦於乾旱監測預警、熱害健康衝擊、水資源安全、農業韌性、生態系統調適、能源系統穩定性、都市氣候治理、災害風險管理等核心議題，建立從科學研究到政策實踐的完整知識鏈。基於TGDIRC「推動全球氣候韌性、守護人類宜居未來」的創立使命，本論壇具備以下戰略目的與核心價值：</p><ol><li><b>引領全球氣候科學</b><br>特別強調人工智慧、衛星遙測、大數據分析等尖端技術的整合，建立次世代兼具長期且即時的氣候監測預警系統，並邀請全球頂尖科學家共同探討理論與實務化的優化與最佳化，藉由推動前瞻性的實務技術應用以及與理論的深度對話交流，為全球氣候極端事件研究樹立新標竿，推動科學創新從跟隨者轉為引領者。從過去的回應挑戰，進一步轉型為預測挑戰，並建立多元解決方案。</li><li><b>打造國際科學研究生態圈</b><br>台灣在氣候研究上具備獨特的地理位置與研究優勢，本論壇將藉由與國際化學術界接軌，建立跨領域戰略夥伴關係，打造台灣成為亞太氣候科學樞紐，透過TGDIRC平台深化與美、歐、澳等頂尖研究機構的策略夥伴關係，建立常設性的全球專家網絡，促進長期研究合作並且提倡與鼓勵青年學者與國際間的交流對話，目的旨在將台灣塑造成全球氣候治理中的知識與政策交流橋樑的角色，並提升台灣在國際氣候治理議題上的話語權與影響力。</li><li><b>強化國家氣候韌性</b><br>建立「科學→政策→實踐」的完整轉化機制，將科學成果有效轉化成實務政策建議並且協助政府落實於社會與產業之中。為政府提供具前瞻性的氣候調適戰略，從被動因應轉為主動預防，在今後的氣候變遷災害發生時，台灣可從單純的受災者角色轉變為解方提供者，並且成為全球氣候韌性治理的典範案例。</li><li><b>促進永續發展目標實現</b><br>緊密結合聯合國2030永續發展議程，特別針對SDG 6（清潔飲水）、SDG 11（永續城市）、SDG 13（氣候行動）、SDG 15（陸域生態）提出水資源、都市韌性、氣候變遷因應以及自然環境保護等領域的突破性解決方案，確保會議成果能對永續發展議程產生實質影響，並展現台灣對全球永續發展的實質貢獻。</li><li><b>催化跨領域創新整合</b><br>氣候挑戰的解決方案不僅之依靠單一學科的深化探討，藉由突破傳統學科界線，促進氣候科學、公共衛生、社會學、經濟學、工程技術等領域的深度融合，培育具備系統思維的新世代氣候專家，並催生新的研究領域知識前沿與創新政策戰略框架，推動解決方案從單點突破轉向系統性創新。</li><li><b>建立全球知識共享機制</b><br>建立一開放式國際研究平台，激勵跨國研究團隊交流與協作，促進資料共享、技術轉移、人才交流，確保氣候科學研究成果能快速轉化為全球公共福祉，讓科學知識真正服務於人類命運共同體的建構。</li></ol>"
+      },
+      {
+        "title": "預期效益 (Expected Impacts)",
+        "content": "<ol><li><b>建構全球氣候韌性研究生態系</b><br>深化台灣與全球頂尖氣候研究機構的策略夥伴關係，包括美國國家乾旱減緩中心、歐盟氣候調適中心、澳洲CSIRO等，建立常設性的國際專家網絡。透過論壇平台促成至少5項大型國際合作計畫啟動，將台灣打造為亞太地區氣候極端事件研究的核心樞紐，顯著提升我國在國際氣候科學領域的話語權與影響力。</li><li><b>催化跨領域創新研究突破</b><br>藉由八大核心議題（乾旱監測預警、熱害健康衝擊、水資源韌性、農業調適、生態系統保護、能源安全、都市氣候治理、災害風險管理）的深度分組研討，突破傳統學科界線，促進氣候科學與公共衛生、社會學、經濟學、人工智慧等領域的創新整合。預期產出10項以上具突破性的跨領域研究提案，為全球氣候挑戰提供台灣原創的解決方案。</li><li><b>強化國家氣候調適治理能力</b><br>聚焦台灣面臨的乾旱與熱害雙重威脅，深入研討早期預警系統建置、水資源智慧管理、都市熱島緩解、農業韌性提升、健康防護機制等關鍵議題。建立「科學研究→政策制定→實務應用」的完整轉化機制，為政府提供具前瞻性與可操作性的氣候調適戰略，預期可減少極端氣候事件造成的社會經濟損失達30%以上，將台灣發展為全球氣候韌性治理的典範案例。</li><li><b>推動國際級學術影響力躍升</b><br>建立嚴格的國際同儕審查機制，編印《氣候極端與社會韌性研究專刊》，達到國際頂尖期刊標準。優秀研究成果將推薦至高影響力期刊發表，預期產出SCI論文5篇以上，總影響因子超過10。同時建立TGDIRC年度報告機制，成為全球氣候政策制定的重要參考依據，大幅提升台灣氣候科學研究的國際學術地位與實務影響力。</li><li><b>培育次世代氣候科學領袖</b><br>為國內外研究生與年輕學者提供與國際頂尖專家深度交流的機會，建立全球氣候科學人才培育網絡。設立「青年學者最佳論文獎」與「國際交流獎學金」，支持優秀人才赴國外進行為期6個月以上的合作研究。預期培育具備國際視野與系統思維的氣候專家50名以上，為台灣氣候科學的長期發展奠定堅實人才基礎。</li><li><b>建立永續知識共享機制</b><br>建構開放式線上研究平台，促進全球氣候數據、監測技術、調適策略的即時共享。建立TGDIRC數位知識庫，收錄全球乾旱與熱害相關研究成果，成為國際氣候科學界的重要資源中心。透過定期發布《全球氣候極端事件監測報告》，為聯合國、世界銀行等國際組織提供科學決策支持，展現台灣對全球氣候治理的實質貢獻。</li></ol>"
+      },
+      {
+        "title": "研討會主題 (Conference Themes)",
+        "content": "<ul class=\"themes-list\"><li class=\"accent-box\"><h4>專題一：乾旱監測與預警技術</h4><p>乾旱是全球最具破壞性的自然災害之一，其影響因橫跨農業生產、水資源管理、能源供應，而可能對生態系統穩定性與社會經濟發展成巨大衝擊。隨著極端的氣候變遷對環境產生的劇烈變化，乾旱事件的發生頻率與強度正在逐漸增強，建立系統且科學化的乾旱監測與預警技術已成為國際迫切的研究與政策需求。本主題將聚焦於多來源的數據整合與應用，包含衛星監測、地面觀測網路、氣候變遷模擬等前沿尖端技術應用，提升對乾旱發展過程的即時監控與預測能力。<br>主體內容將涵蓋但不限於：<br>1. 監測技術的創新應用<br>2. 乾旱指標的設計、比較與改良<br>3. 人工智慧與大數據分析在乾旱監測與早期預警中的應用<br>4. 跨區域乾旱監測平台與決策支持系統的建置<br>5. 農業與生態系統層面的乾旱影響評估方法<br>6. 氣候模式模擬與乾旱事件預測</p></li><li class=\"accent-box\"><h4>專題二：熱島效應與都市氣候調適</h4><p>都市化快速發展與全球暖化加劇，熱島效應因加劇能源需求與基礎設施負擔，影響居民健康與社會安全性，已成為高密度人口聚集區所面臨的重大挑戰。本主題聚焦於熱島效應的成因、監測技術與多層次調適策略，期望建立兼顧科學基礎、工程技術與社會治理的完整對策。<br>主題內容將涵蓋但不限於：<br>1. 熱島效應機制與驅動因素<br>2. 數位技術在都市熱監測技術中的應用<br>3. 都市氣候模擬與熱浪衝擊預測模型<br>4. 智慧城市技術在降溫與節能中的角色<br>5. 都市更新與土地利用規劃在緩解熱島效應上的成效評估<br>6. 數位科技結合綠色建築的永續發展</p></li><li class=\"accent-box\"><h4>專題三：氣候政策、水資源管理與社會韌性</h4><p>氣候變遷為水循環系統的穩定性帶來劇烈的影響，乾旱、洪水與其他環境汙染導致水資源問題日益嚴峻。如何透過前瞻性的氣候政策與有效的水資源管理，來提升社會的韌性與適應能力，已成為各國共同面對的重要課題。本主題將聚焦於跨領域治理與多方利益相關者的協作，關注政策、管理、社會創新三種視角，建立兼具公平性與永續性的水資源治理策略框架。<br>主題內容將涵蓋但不限於：<br>1. 氣候變遷下的水資源治理政策與制度設計水文科學、公共政策、經濟學與社會學整合的跨領域韌性<br>2. 跨流域或跨國水資源管理合作機制<br>3. 智慧水網、物聯網與人工智慧在水資源調控中的應用<br>4. 地下水開發、再生水利用與非常態水資源調適策略<br>5. 水資源風險管理與社會公平<br>6. 面對極端乾旱與洪災的水資源韌性評估與決策支持方法</p></li><li class=\"accent-box\"><h4>專題四：氣候變遷健康衝擊</h4><p>氣候變遷已成為21世紀最嚴峻的公共衛生挑戰之一。極端高溫、乾旱、水資源短缺及極端氣候事件，正直接或間接威脅人類健康與社會發展。氣候衝擊帶來中暑、心血管疾病、傳染病擴散、糧食與營養安全惡化等問題，加劇健康不平等，使弱勢族群承受更高風險，對社會穩定性造成潛在的波動與衝擊。本主題聚焦於科學研究、健康風險評估與政策實踐，徵求跨領域研究成果與案例分享，推動建構健康導向的氣候調適策略。<br>主題內容將涵蓋但不限於：<br>1. 高溫與熱浪對心血管、呼吸系統疾病的影響評估<br>2. 氣候變遷與傳染病流行<br>3. 氣候衝擊下的心理健康與社會壓力研究<br>4. 醫療體系的氣候韌性建構<br>5. 氣候變遷與公共衛生管理風險的關聯性<br>6. 健康脆弱族群的保護措施應用</p></li><li class=\"accent-box\"><h4>專題五：極端氣候的經濟影響評估</h4><p>乾旱、洪水、熱浪與颶風等極端氣候事件不僅造成基礎設施與生產系統的直接損害，更透過供應鏈中斷、能源價格波動、勞動力損失與保險成本上升，對整體經濟造成深遠影響。如何量化並評估這些衝擊，並進一步提出具體的財務、政策與市場應對方案，是提升社會韌性的重要基礎。本主題會議聚焦於極端氣候下的多元產業的生產供應鏈以及市場環境的經濟風險評估與調適策略。<br>主題內容將包含但不限於：<br>1. 災害風險模型、保險精算與再保險機制設計<br>2. 氣候事件對能源市場、農業產值與供應鏈的影響<br>3. ESG框架下的經濟風險評估<br>4. 中小企業與地方社區面對極端氣候的經濟脆弱性與調適策略<br>5. 氣候移民、人口遷徙對勞動市場與地方經濟的影響<br>6. 都市、社群... [truncated]"
+      },
+      {
+        "title": "會議資訊 (Conference Information)",
+        "isStructured": true,
+        "content": {
+          "intro": "2026 International Forum on Climate Extremes and Societal Resilience: Drought, Heat, and Human Livability in a Warming World <br>第二屆氣候極端與社會韌性國際論壇：乾旱、熱害與暖化世界中的人類宜居性",
+          "details": [
+            {
+              "label": "會議時間",
+              "value": "中華民國 2026 年 11 月 22 日(日)至 11 月 24 日(二)"
+            },
+            {
+              "label": "會議地點",
+              "value": "國立中央大學太空及遙測研究中心"
+            },
+            {
+              "label": "主辦單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "台灣暨全球乾旱調查與研究中心 (TGDIRC / DroughtHub)",
+                  "logo": "DroughtHub.jpg",
+                  "alt": "DroughtHub Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "協辦單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "桃園市政府環境保護局",
+                  "logo": "桃園市環保局.png",
+                  "alt": "桃園市環保局 Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "社團法人台灣地球觀測學會 (TGEO)",
+                  "logo": "tgeo_logo.png",
+                  "alt": "TGEO Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "國際工程與科技學會中華民國分會 (IET Taipei Local Network)",
+                  "logo": "IET_Logo.png",
+                  "alt": "IET Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "指導單位",
+              "isOrganizer": true,
+              "items": [
+                {
+                  "name": "國立中央大學 (NCU)",
+                  "logo": "logo.png",
+                  "alt": "NCU Logo",
+                  "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "桃園市政府",
+                  "logo": "桃園市.png",
+                  "alt": "桃園市政府 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "國家科學及技術委員會",
+                  "logo": "nstc_logo.png",
+                  "alt": "NSTC Logo",
+                  "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+                },
+                {
+                  "name": "農業部",
+                  "logo": "agriculture_logo.jpg",
+                  "alt": "農業部 Logo",
+                  "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+                }
+              ]
+            },
+            {
+              "label": "大會主席",
+              "value": "劉說安 講座教授"
+            }
+          ]
+        }
+      },
+      {
+        "title": "編輯委員會 (Editorial Board)",
+        "isEditorialBoard": true,
+        "content": {
+          "advisors": [
+            {
+              "name": "Takaghoshi",
+              "title": "Advisor",
+              "image": "Gemini_Takaghoshi.png"
+            },
+            {
+              "name": "EME President",
+              "title": "Advisor",
+              "image": "Gemini_EMEPresident.png"
+            },
+            {
+              "name": "Former President",
+              "title": "Advisor",
+              "image": "Gemini_Former President.png"
+            },
+            {
+              "name": "HUMG",
+              "title": "Advisor",
+              "image": "Gemini_HUMG.png"
+            }
+          ],
+          "teamMembers": [
+            {
+              "image": "Gemini_劉說安2.png",
+              "name": "劉說安 Yuei-An Liou",
+              "title": "太遙講座教授",
+              "department": "太空及遙測研究中心",
+              "expertise": [
+                "<b>遙測</b>: 微波、熱紅外線及光學遙測; 衛載及空載遙測<br><b>科學</b>: 邊界層(微氣象)、大氣科學<br><b>工程</b>: 電機工程(電磁波)、GPS氣象"
+              ],
+              "detailUrl": "https://www.csrsr.ncu.edu.tw/about/professor_info.php?id=4"
+            },
+            {
+              "image": "Gemini_Chien_wen_Shen.png",
+              "name": "沈建文 Chien-wen Shen",
+              "title": "教授暨亞洲影響力衡量與管理研究總中心、社企中心、公益傳播中心主任",
+              "department": "企業管理學系",
+              "expertise": [
+                "資訊創新技術應用、供應鏈管理、決策科學"
+              ],
+              "detailUrl": "https://ba.mgt.ncu.edu.tw/faculty_txt.php?id=1054"
+            },
+            {
+              "image": "Gemini_Cheng-Ling Kou2.png",
+              "name": "郭政靈 Cheng-Ling Kou",
+              "title": "教授",
+              "department": "太空科學與科技研究中心",
+              "expertise": [
+                "<b>遙測</b>：高光譜以及多光譜儀資料融合、地物分類以及高溫分析<br><b>科學</b>：大氣電學和電漿物理<br><b>工程</b>：立方衛星以及太空光學儀器酬載"
+              ],
+              "detailUrl": "https://scholars.ncu.edu.tw/zh/persons/cheng-ling-kou"
+            },
+            {
+              "image": "gemini_hsu_wen_chin.png",
+              "name": "許文錦 Wen-Chin Hsu",
+              "title": "教授",
+              "department": "資訊管理學系",
+              "expertise": [
+                "醫療資訊管理、電子商務、人機互動、消費者行為、智慧型服務"
+              ],
+              "detailUrl": "https://im.mgt.ncu.edu.tw/teacher"
+            },
+            {
+              "image": "Hsiao-Ting Tseng.jpg",
+              "name": "曾筱珽 Hsiao-Ting Tseng",
+              "title": "副教授",
+              "department": "資訊管理學系",
+              "expertise": [
+                "社群媒體與社群網路、電子商務、健康資訊系統、人機互動、服務科學、人工智慧應用與資料科學"
+              ],
+              "detailUrl": "https://im.mgt.ncu.tw/teacher"
+            },
+            {
+              "image": "Gemini_羅月霞 Yueh-Hsia Luo.png",
+              "name": "羅月霞 Yueh-Hsia Luo",
+              "title": "副教授",
+              "department": "生命科學系",
+              "expertise": [
+                "感染與免疫、奈米粒子免疫毒理分析、腸道微生物與免疫系統"
+              ],
+              "detailUrl": "https://nculs.in.ncu.edu.tw/index.php/Staff/more/id/20/cid/2.html"
+            },
+            {
+              "image": "Gemini_徐峻賢Chun-Hsien Hsu.png",
+              "name": "徐峻賢 Chun-Hsien Hsu",
+              "title": "副教授",
+              "department": "認知神經科學研究所",
+              "expertise": [
+                "神經語言學、計算語言學、語音學、構詞學、語言習得、EEG/MEG訊號分析"
+              ],
+              "detailUrl": "https://icn.ncu.edu.tw/2-1-detail.php?id=9"
+            },
+            {
+              "image": "Gemini_Shou-Hao Chiang.png",
+              "name": "姜壽浩 Shou-Hao Chiang",
+              "title": "副教授",
+              "department": "太空及遙測研究中心",
+              "expertise": [
+                "空間模式、空間資訊分析、水文及崩塌模式、自然地理"
+              ],
+              "detailUrl": "https://www.csrsr.ncu.edu.tw/about/professor_info.php?id=15"
+            }
+          ]
+        }
+      },
+      {
+        "title": "講者名單 (Speakers)",
+        "content": "<h3 class=\"speakers-subtitle\">Plenary Session Speakers</h3><ul class=\"styled-list\"><li><a href=\"https://cee.mit.edu/people_individual/dara-entekhabi/\" target=\"_blank\"><b>Dara Entekhabi</b></a><br><p><b>教授／院士</b><br>M.I.T.教授暨美國國家工程院院士<br>專長涵蓋 遙感地球科學、陸氣交互作用、水文模擬與地表水—地下水相互作用</p><div class=\"accent-box\"><h4>演講題目：Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</h4></div><div class=\"accent-box\"><h4>演講題目: The Drought Cascade and Drought Amplification Due to Heat Waves</h4></div></li><li><a href=\"https://www.k.u-tokyo.ac.jp/en/gsfs/faculty/takashi_oguchi/\"><b>Takashi Oguchi</b></a><br><p><b>教授／會長</b><br>日本東京大學教授<br>現任 國際地貌學會（IAG）副會長、日本地球科學聯合會（JpGU）副會長、日本地理學會會長<br>曾任日本地貌學會與日本地理資訊系統學會會長<br>在地貌學與空間資訊領域具深厚造詣與國際影響力<div class=\"accent-box\"><h4>演講題目：Emerging necessity of drought-related geomorphological research in Japan and Taiwan</h4></li><li><a href=\"https://www.gcrf-agriplastics.uk/project-team/vietnam/\" target=\"_blank\"><b>Trần Minh Tiến</b></a><br><p><b>教授／副院長</b><br>越南農業科學院（VAAS）副院長<br>本論壇為「DroughtHub乾旱韌性研究計畫」之一環<br>Tiến 教授將率領代表團參與雙邊會議與學術交流，聚焦於乾旱調適與農業創新之合作研究</p><div class=\"accent-box\"><h4>演講題目：Current State of Rice Soil Health in Vietnam and Solutions for Improvement</h4></div></li><li><a href=\"https://engineering.virginia.edu/faculty/venkataraman-lakshmi\" target=\"_blank\"><b>Venkataraman (Venkat) Lakshmi</b></a><br><p><b>講座教授／會長</b><br>美國維吉尼亞大學 John L. Newcomb 講座教授<br>美國地球物理聯盟（AGU）水文學會會長<br>專長涵蓋 水文遙測 與 氣候變遷衝擊評估</p><div class=\"accent-box\"><h4>演講題目：Observing hydrological extremes from space</h4></li><li><a href=\"https://ap.fftc.org.tw/author/2216\" target=\"_blank\"><b>Ngo Duc Minh</b></a><br><p><b>首席研究員</b><br>越南農業科學院<br>專長涵蓋 土壤科學、氣候智慧型農業、低碳與有機農業及可持續農業食品系統</p><div class=\"accent-box\"><h4>演講題目：Current Status of National Policy of Soil Health Governance in Vietnam</h4></div></li><li><a href=\"https://sciprofiles.com/profile/996709\" target=\"_blank\"><b>Swapan Talukdar</b></a><br><p><b>助理教授</b><br>Asutosh College 加爾各答大學<br>專長涵蓋 環境永續發展、水資源管理、遙測、人工智慧與機器學習應用</p><div class=\"accent-box\"><h4>演講題目：Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</h4></div></li><li><a href=\"https://tiss.ac.in/view/9/employee/praveen-kumar/\" target=\"_blank\"><b>Praveen Kumar</b></a><br><p><b>助理教授</b><br>印度孟買塔塔社會科學院<br>專長涵蓋 社會—生態系統、氣候變遷脆弱性與調適、氣候風險</p><div class=\"accent-box\"><h4>演講題目：Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</h4></div></li><li><a href=\"https://ucentralasia.org/faculty-and-staff/dr-ben-jarihani\" target=\"_blank\"><b>Ben Jarihani</b></a><br><p>澳洲詹姆士庫克大學 副教授<br>專長涵蓋 水文學、遙測與地理資訊系統（GIS）、流域建模與自然資源管理</p><div class=\"accent-box\"><h4>演講題目：Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</h4></div></li><li><a href=\"https://au.linkedin.com/in/lisa-law-48739191\" target=\"_blank\"><b>Lisa Law</b></a><br><p>澳洲詹姆士庫克大學 副教授<br>專長涵蓋 東南亞與熱帶澳洲城市研究、宜居性與地方導向都市設計</p><div class=\"accent-box\"><h4>演講題目：Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</h4></div></li><li><a href=\"https://scholar.google.com/citations?user=f_NFqRgAAAAJ&hl=en\" target=\"_blank\"><b>Rafael Cabral Carvalho</b></a><br><p>澳洲詹姆士庫克大學 講師<br>專長涵蓋 海岸地貌、沉積學與海洋地理資訊系統分析</p><div class=\"accent-box\"><h4>演講題目：Droughts and deltas: an Earth Science perspective on climate change, societal development</h4></div></li><li><a href=\"https://www.yunuscenterait.org/aboutdrfaiz\" target=\"_blank\"><b>Faiz Shah</b></a><br><p><b>執行長</b><br>泰國亞洲理工學院尤努斯中心<br>專長涵蓋 社會企業、永續發展、企業責任與基層創新培力</p><div class=\"accent-box\"><h4>演講題目：Social Business as a lever for Climate Resilience</h4></div></li><li><a href=\"https://kzzl.urk.edu.pl/pracownicy/piotrwezyk-4.html\" target=\"_blank\"><b>Piotr Wezyk</b></a><br><p><b>教授</b><br>波蘭克拉科夫農業大學<br>專長涵蓋 LiDAR 掃描與遙測應用、城市與經濟林管理、時空 GIS 分析及城市綠地生態系服務</p><div class=\"accent-box\"><h4>演講題目：Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</h4></div></li><li><a href=\"https://vneat.org/?page_id=286&utm_source=chatgpt.com&lang=en\" target=\"_blank\"><b>Nguyen Kim Anh</b></a><br><p><b>資深研究員</b><br>越南國家太空中心<br>專長涵蓋 生態環境脆弱性評估、自然災害與城市綠地管理</p><div class=\"accent-box\"><h4>演講題目：Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</h4></div></li><li><a href=\"https://aasb.gov.au/board-members/prof-carolyn-cordery/\" target=\"_blank\"><b>Carolyn Cordery</b></a><br><p><b>執行長／教授</b><br>紐西蘭會計準則委員會 / 威靈頓維多利亞大學<br>專長涵蓋 非營利組織會計、公共部門審計與國際財務報告標準比較</p><div class=\"accent-box\"><h4>演講題目：Community resilience: preparing and responding to climate-driven events</h4></div></li><li><a href=\"https://www.researchgate.net/profile/Susanta-Mahato\" target=\"_blank\"><b>Susanta Mahato</b></a><br><p><b>助理教授</b><br>哈里辛格古爾博士大學<br>專長涵蓋 陸氣交互作用、城市氣候動力學、熱遙測與應用地理空間分析</p><div class=\"accent-box\"><h4>演講題目：Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</h4></div></li></ul>"
+      },
+      {
+        "title": "議程 (Agenda)",
+        "content": "<div class=\"agenda-container\"><p>CESR 2026 議程表</p><!-- 第一天 --><h4 class=\"agenda-day-title\">第一天 - 11月 22日 (日) | Registration</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>14:00 - 17:00</td><td style='text-align: center; vertical-align: middle;'>Registration <br>The exact check-in time will be notified individually.</td></tr></tbody></table><!-- 第二天 --><h4 class=\"agenda-day-title\">第二天 - 11 月 23 日 (一)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>來賓報到</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p>開幕典禮與合影</p><p>主持: 劉說安 講座教授暨IAA院士</p><table style='width: 100%; margin-top: 10px;'><tbody><tr><td style='width: 33.33%;'>國立中央大學綦振瀛副校長</td><td style='width: 33.33%;'>國立中央大學張中白國際長</td><td style='width: 33.33%;'>桃園市政府環境保護局顏己喨局長</td></tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:00</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講一</span></p><p>主持人: 劉說安 講座教授暨IAA院士</p><p>講者：Dara Entekhabi, M.I.T.教授暨美國國家工程院院士</p><p>Topic: Linkages Between the Water, Energy, and Carbon Cycles in the Earth System</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:00-10:20</td><td style='text-align: center; vertical-align: middle;'>茶敘</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:20-12:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次一 主持人：郭政靈 教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 40分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Venkataraman (Venkat) Lakshmi<br><small>美國維吉尼亞大學講座教授暨AGU水文分會主席</small></td><td style='text-align: left; vertical-align: top;'>Using AI/ML in hydrology: Two case studies</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Ngo Duc Minh<br><small>越南農業科學院 首席研究員</small></td><td style='text-align: left; vertical-align: top;'>Current Status of National Policy of Soil Health Governance in Vietnam</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Swapan Talukdar<br><small>Asutosh College 加爾各答大學 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Decoding Emerging Hydroclimatic Extremes in India through Space Observations and Climate Projections</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Praveen Kumar<br><small>塔塔社會科學院 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Community-led Climate Resilience in Informal Settlements: Lessons from Mumbai</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>午餐</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:00-13:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講二</span></p><p>主持人：姜壽浩 副教授</p><p>講者：Takashi Oguchi 日本東京大學教授</p><p>Topic: Emerging necessity of drought-related geomorphological research in Japan and Taiwan</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-15:00</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>雙邊工作坊：Bridging Hubs for Drought Resilience: TGI & TNQ DroughtHubs Joint Workshop</b></p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) 林唐煌<br>太空及遙測研究中心主任</td><td style='text-align: left; vertical-align: top;'>CSRSR: Advancing Earth Observation for Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.)劉說安<br>講座教授暨台灣暨全球乾旱調查與研究中心籌備處負責人</td><td style='text-align: left; vertical-align: top;'>TGI DroughtHub: Building Pathways for Drought Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Ben Jarihani<br>澳洲詹姆士庫克大學 副教授</td><td style='text-align: left; vertical-align: top;'>Satellite-Based Water Mapping, Monitoring, and Modelling for Drought Applications</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Lisa Law<br>澳洲詹姆士庫克大學 副教授</td><td style='text-align: left; vertical-align: top;'>Designing for a Hotter Cairns: Evidence-Based Strategies for Liveability in a Hot and Humid</td></tr><tr><td style='text-align: left; vertical-align: top;'>(5.) Rafael Cabral Carvalho<br>澳洲詹姆士庫克大學 講師</td><td style='text-align: left; vertical-align: top;'>Droughts and deltas: an Earth Science perspective on climate change, societal development</td></tr><tr><td style='text-align: left; vertical-align: top;'>(6.)討論</td><td style='text-align: left; vertical-align: top;'></td></tr><tr></tbody></table></td></tr><tr><td style='text-align: center; vertical-align: middle;'>15:00-15:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講三</span></p><p>主持人：姜壽浩 副教授</p><p>講者：Tran Minh Tien 越南農業科學院副院長<br><p>Topic: Current State of Rice Soil Health in Vietnam and Solutions for Improvement</p></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>15:30-16:00</td><td style='text-align: center; vertical-align: middle;'>茶敘 / 學生實作展示</td></tr><tr><td style='text-align: center; vertical-align: middle;'>16:00-17:40</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次二 主持人：沈建文 教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 40分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Faiz Shah<br><small>泰國亞洲理工學院尤努斯中心執行長</small></td><td style='text-align: left; vertical-align: top;'>Social Business as a lever for Climate Resilience</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Piotr Wezyk<br><small>波蘭克拉科夫農業大學 教授</small></td><td style='text-align: left; vertical-align: top;'>Time series of LiDAR point clouds and fusion of other data and geoinformation technologies in monitoring the quality of life of Krakow residents.</td></tr><tr><td style='text-align: left; vertical-align: top;'>(3.) Nguyen Kim Anh<br><small>越南國家太空中心 資深研究員</small></td><td style='text-align: left; vertical-align: top;'>Compound Drought- Heat Extremes Under Climate Change: From Satellites to Decision Support</td></tr><tr><td style='text-align: left; vertical-align: top;'>(4.) Carolyn Cordery<br><small>紐西蘭會計準則委員會 執行長/威靈頓維多利亞大學 教授</small></td><td style='text-align: left; vertical-align: top;'>Community resilience: preparing and responding to climate-driven events</td></tr></tbody></table></td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:00</td><td style='text-align: center; vertical-align: middle;'>會議晚宴 – 新陶芳庭園餐廳 (邀請制)</td></tr></tbody></table><!-- 第三天 --><h4 class=\"agenda-day-title\">第三天 - 11 月 24 日 (二)</h4><table class=\"agenda-table\" style='width: 100%; table-layout: fixed;'><thead><tr><th style='text-align: center; vertical-align: middle; width: 20%;'>Time</th><th style='text-align: center; vertical-align: middle;'>Event</th></tr></thead><tbody><tr><td style='text-align: center; vertical-align: middle;'>08:30-09:00</td><td style='text-align: center; vertical-align: middle;'>來賓報到</td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:00-09:30</td><td style='text-align: center; vertical-align: middle;'><p><span style=\"color: red;\">專題演講四</span></p><p>主持人：曾筱珽 副教授</p><p>講者：Venkataraman (Venkat) Lakshmi美國維吉尼亞大學講座教授暨AGU水文分會主席</p><p>Topic: Observing hydrological extremes from space</p></td></tr><tr><td style='text-align: center; vertical-align: middle;'>09:30-10:20</td><td style='text-align: left; vertical-align: top;'><p style='margin-bottom: 5px; text-align: center;'><b>場次三 主持人：羅月霞 副教授</b></p><p style='margin-top: 0; font-size: 0.9em; color: #555; text-align: center;'>講者： (各短講15分鐘+ 20分鐘與談)</p><table class='speaker-table' style='width: 100%; table-layout: fixed;'><thead><tr><th style='width: 40%; text-align: left; vertical-align: top;'>講者</th><th style='width: 60%; text-align: left; vertical-align: top;'>演講主題</th></tr></thead><tbody><tr><td style='text-align: left; vertical-align: top;'>(1.) Dara Entekhabi<br><small>M.I.T. 講座教授暨美國國家工程院院士</small></td><td style='text-align: left; vertical-align: top;'>The Drought Cascade and Drought Amplification Due to Heat Waves</td></tr><tr><td style='text-align: left; vertical-align: top;'>(2.) Susanta Mahato<br><small>哈里辛格古爾博士大學 助理教授</small></td><td style='text-align: left; vertical-align: top;'>Understanding Early Summer Warming: Trends, Threats, and Implications for Resilience</td></tr></tbody></table></td></tr><tr class=\"break-row\"><td style='text-align: center; vertical-align: middle;'>10:20-10:40</td><td style='text-align: center; vertical-align: middle;'>茶敘</td></tr><tr><td style='text-align: center; vertical-align: middle;'>10:40-11:50</td><td style='text-align: center; vertical-align: middle;'>乾旱中心策略發展論壇</td></tr><tr><td style='text-align: center; vertical-align: middle;'>11:50-12:00</td><td style='text-align: center; vertical-align: middle;'>閉幕典禮</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>12:00-13:00</td><td style='text-align: center; vertical-align: middle;'>午餐</td></tr><tr><td style='text-align: center; vertical-align: middle;'>13:30-17:30</td><td style='text-align: center; vertical-align: middle;'>會後參訪</td></tr><tr class=\"meal-row\"><td style='text-align: center; vertical-align: middle;'>18:00-20:30</td><td style='text-align: center; vertical-align: middle;'>再會晚宴 (邀請制)</td></tr></tbody></table></div>"
+      }
+    ],
+    "info": {
+      "registration": {
+        "url": "https://forms.gle/LfjM1nqKa47ufQvG6",
+        "inquiryUrl": "https://forms.gle/VtF3gfEKZMBKY6pr8"
+      },
+      "onlineParticipation": {
+        "url": "https://calendar.app.google/Adcb3GcPZCywBSk46"
+      },
+      "location": {
+        "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3616.958075318055!2d121.18223309678957!3d24.967540999999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346823c26571829b%3A0x4405dd3d60240444!2z5Lit5aSu5aSn5a245aSq56m65Y-K6YGZ5ris56CU56m25Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1761738883357!5m2!1szh-TW!2stw"
+      },
+      "host": {
+        "venue": "國立中央大學",
+        "hosts": [
+          {
+            "name": "台灣暨全球乾旱調查與研究中心 (TGDIRC / DroughtHub)",
+            "logo": "DroughtHub.jpg",
+            "alt": "DroughtHub Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "coHosts": [
+          {
+            "name": "桃園市政府環境保護局",
+            "logo": "桃園市環保局.png",
+            "alt": "桃園市環保局 Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "社團法人台灣地球觀測學會 (TGEO)",
+            "logo": "tgeo_logo.png",
+            "alt": "TGEO Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "國際工程與科技學會中華民國分會 (IET Taipei Local Network)",
+            "logo": "IET_Logo.png",
+            "alt": "IET Logo",
+            "style": "height: 25px; vertical-align: middle; margin-right: 5px;"
+          }
+        ],
+        "advisors": [
+          {
+            "name": "國立中央大學 (NCU)",
+            "logo": "logo.png",
+            "alt": "NCU Logo",
+            "style": "height: 35px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "桃園市政府",
+            "logo": "桃園市.png",
+            "alt": "桃園市政府 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "國家科學及技術委員會",
+            "logo": "nstc_logo.png",
+            "alt": "NSTC Logo",
+            "style": "height: 20px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "農業部",
+            "logo": "agriculture_logo.jpg",
+            "alt": "農業部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          },
+          {
+            "name": "教育部",
+            "logo": "教育部.png",
+            "alt": "教育部 Logo",
+            "style": "height: 40px; vertical-align: middle; margin-right: 5px;"
+          }
+        ]
+      }
+    }
+  }
+}
