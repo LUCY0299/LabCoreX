@@ -3,7 +3,7 @@
     <b-container fluid class="d-flex flex-nowrap align-items-center">
       <!-- Logo 品牌 -->
       <b-navbar-brand to="/">
-        <img src="@/assets/swclab_logo2.png" :alt="$t('header.logoAlt')" class="logo-img">
+        <img src="@/assets/HWC_logo.png" :alt="$t('header.logoAlt')" class="logo-img">
       </b-navbar-brand>
 
       <!-- 手機版的漢堡選單按鈕 -->

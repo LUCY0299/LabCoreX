@@ -138,7 +138,7 @@
         "title": "Ph.D. student 博士班",
         "members": [
           {
-             "name": "博士生一",
+             "name": "李牧衡",
              "image": "somebody.jpg",
              "title": "博士生",
              "department": "資訊管理學系",
@@ -146,7 +146,7 @@
              "detailUrl": "#"
           },
           {
-             "name": "博士生二",
+             "name": "郝德慧",
              "image": "somebody.jpg",
              "title": "博士生",
              "department": "資訊管理學系",
@@ -154,9 +154,9 @@
              "detailUrl": "#"
           },
           {
-             "name": "博士生三",
+             "name": "張惠凱",
              "image": "somebody.jpg",
-             "title": "博士生",
+             "title": "博士生 (休學)",
              "department": "資訊管理學系",
              "expertise": [],
              "detailUrl": "#"
@@ -262,25 +262,233 @@
         "title": "Past members",
         "members": [
           {
-             "name": "畢業成員一",
+             "name": "陳怡蓁",
              "image": "somebody.jpg",
-             "title": "校友",
+             "title": "113級 校友",
              "department": "資訊管理學系",
              "expertise": [],
              "detailUrl": "#"
           },
           {
-             "name": "畢業成員二",
+             "name": "盧亭蓁",
              "image": "somebody.jpg",
-             "title": "校友",
+             "title": "113級 校友",
              "department": "資訊管理學系",
              "expertise": [],
              "detailUrl": "#"
           },
           {
-             "name": "畢業成員三",
+             "name": "王宣筑",
              "image": "somebody.jpg",
-             "title": "校友",
+             "title": "113級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "蔡隆儀",
+             "image": "somebody.jpg",
+             "title": "113級 校友",
+             "department": "IMBA",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "劉冠妤",
+             "image": "somebody.jpg",
+             "title": "112級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "吳明明",
+             "image": "somebody.jpg",
+             "title": "112級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "游凱淳",
+             "image": "somebody.jpg",
+             "title": "112級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "吳季蓁",
+             "image": "somebody.jpg",
+             "title": "112級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "李牧衡",
+             "image": "somebody.jpg",
+             "title": "111級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "蘇揚致",
+             "image": "somebody.jpg",
+             "title": "111級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "孫逸群",
+             "image": "somebody.jpg",
+             "title": "111級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "楊凱倫",
+             "image": "somebody.jpg",
+             "title": "111級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "張惠凱",
+             "image": "somebody.jpg",
+             "title": "111級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "洪毓謙",
+             "image": "somebody.jpg",
+             "title": "110級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "林家琪",
+             "image": "somebody.jpg",
+             "title": "110級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "黃珉郁",
+             "image": "somebody.jpg",
+             "title": "110級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "鄭筠叡",
+             "image": "somebody.jpg",
+             "title": "109級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "鄭凱文",
+             "image": "somebody.jpg",
+             "title": "109級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "魏宏安",
+             "image": "somebody.jpg",
+             "title": "109級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "蘇崇億",
+             "image": "somebody.jpg",
+             "title": "108級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "呂明聲",
+             "image": "somebody.jpg",
+             "title": "108級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "張維真",
+             "image": "somebody.jpg",
+             "title": "108級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "黃琮閔",
+             "image": "somebody.jpg",
+             "title": "107級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "應芝曦",
+             "image": "somebody.jpg",
+             "title": "107級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "陳致丞",
+             "image": "somebody.jpg",
+             "title": "107級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "葉子筠",
+             "image": "somebody.jpg",
+             "title": "105級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "張博凱",
+             "image": "somebody.jpg",
+             "title": "104級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "邱冠儒",
+             "image": "somebody.jpg",
+             "title": "104級 校友",
+             "department": "資訊管理學系",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+          {
+             "name": "李佳桓",
+             "image": "somebody.jpg",
+             "title": "104級 校友",
              "department": "資訊管理學系",
              "expertise": [],
              "detailUrl": "#"

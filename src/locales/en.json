@@ -168,7 +168,7 @@
         "title": "Ph.D. Students",
         "members": [
            {
-             "name": "Ph.D. Student 1",
+             "name": "Mu-Heng Li",
              "image": "somebody.jpg",
              "title": "Ph.D. Student",
              "department": "Department of Information Management",
@@ -176,7 +176,7 @@
              "detailUrl": "#"
           },
            {
-             "name": "Ph.D. Student 2",
+             "name": "De-Hui Hao",
              "image": "somebody.jpg",
              "title": "Ph.D. Student",
              "department": "Department of Information Management",
@@ -184,9 +184,9 @@
              "detailUrl": "#"
           },
            {
-             "name": "Ph.D. Student 3",
+             "name": "Hui-Kai Zhang",
              "image": "somebody.jpg",
-             "title": "Ph.D. Student",
+             "title": "Ph.D. Student (Suspended)",
              "department": "Department of Information Management",
              "expertise": [],
              "detailUrl": "#"
@@ -292,25 +292,232 @@
         "title": "Past Members",
         "members": [
            {
-             "name": "Alumni 1",
+             "name": "Yi-Chen Chen",
              "image": "somebody.jpg",
-             "title": "Alumni",
+             "title": "Alumni (Class of 2024)",
              "department": "Department of Information Management",
              "expertise": [],
              "detailUrl": "#"
           },
            {
-             "name": "Alumni 2",
+             "name": "Ting-Chen Lu",
              "image": "somebody.jpg",
-             "title": "Alumni",
+             "title": "Alumni (Class of 2024)",
              "department": "Department of Information Management",
              "expertise": [],
              "detailUrl": "#"
           },
            {
-             "name": "Alumni 3",
+             "name": "Hsuan-Chu Wang",
              "image": "somebody.jpg",
-             "title": "Alumni",
+             "title": "Alumni (Class of 2024)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Long-Yi Tsai",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2024)",
+             "department": "IMBA",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Kuan-Yu Liu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2023)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Ming-Ming Wu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2023)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Kai-Chun Yu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2023)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Chi-Chen Wu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2023)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Mu-Heng Li",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2022)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Yang-Chih Su",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2022)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Yi-Chun Sun",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2022)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Kai-Lun Yang",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2022)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Hui-Kai Zhang",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2022)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Yu-Chien Hung",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2021)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Jia-Qi Lin",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2021)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Min-Yu Huang",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2021)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Yun-Ruei Zheng",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2020)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Kai-Wen Zheng",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2020)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Hong-An Wei",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2020)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Chong-Yi Su",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2019)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Ming-Sheng Lu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2019)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Wei-Zhen Zhang",
+             "image": "somebody.jpg", "title": "Alumni (Class of 2019)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Cong-Min Huang",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2018)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Zhi-Xi Ying",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2018)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Zhi-Cheng Chen",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2018)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Zi-Yun Ye",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2016)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Bo-Kai Zhang",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2015)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Guan-Ru Qiu",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2015)",
+             "department": "Department of Information Management",
+             "expertise": [],
+             "detailUrl": "#"
+          },
+           {
+             "name": "Jia-Huan Li",
+             "image": "somebody.jpg",
+             "title": "Alumni (Class of 2015)",
              "department": "Department of Information Management",
              "expertise": [],
              "detailUrl": "#"
