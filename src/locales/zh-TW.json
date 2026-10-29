@@ -167,24 +167,8 @@
         "title": "Master students 碩士班",
         "members": [
           {
-            "name": "鄭惠文",
-            "image": "CMaster/grade2/鄭惠文Cheng_Hui_Wen.jpg",
-            "title": "碩士生",
-            "department": "資訊管理學系",
-            "expertise": [],
-            "detailUrl": "#"
-          },
-          {
-            "name": "Angelson 陳秉謙",
-            "image": "CMaster/grade2/Angelson 陳秉謙.jpg",
-            "title": "碩士生",
-            "department": "資訊管理學系",
-            "expertise": [],
-            "detailUrl": "#"
-          },
-          {
             "name": "吳心平",
-            "image": "CMaster/grade1/吳心平Aimee.jpg",
+            "image": "CMaster/grade2/吳心平Aimee.jpg",
             "title": "碩士生",
             "department": "資訊管理學系",
             "expertise": [],
@@ -192,7 +176,15 @@
           },
           {
             "name": "李芝瑢",
-            "image": "CMaster/grade1/李芝瑢Julie.jpg",
+            "image": "CMaster/grade2/李芝瑢Julie.jpg",
+            "title": "碩士生",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "彭琦崴",
+            "image": "CMaster/grade2/彭琦崴Lucie.jpg",
             "title": "碩士生",
             "department": "資訊管理學系",
             "expertise": [],
@@ -261,6 +253,22 @@
       {
         "title": "Past members",
         "members": [
+          {
+            "name": "鄭惠文",
+            "image": "Alumni/鄭惠文Cheng_Hui_Wen.jpg",
+            "title": "115級 校友",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Angelson 陳秉謙",
+            "image": "Alumni/Angelson 陳秉謙.jpg",
+            "title": "115級 校友",
+            "department": "資訊管理學系",
+            "expertise": [],
+            "detailUrl": "#"
+          },
           {
              "name": "陳怡蓁",
              "image": "somebody.jpg",

@@ -197,24 +197,8 @@
         "title": "Master Students",
         "members": [
           {
-            "name": "Hui-Wen Cheng (鄭惠文)",
-            "image": "CMaster/grade2/鄭惠文Cheng_Hui_Wen.jpg",
-            "title": "Master Student",
-            "department": "Department of Information Management",
-            "expertise": [],
-            "detailUrl": "#"
-          },
-          {
-            "name": "Angelson Chen (陳秉謙)",
-            "image": "CMaster/grade2/Angelson 陳秉謙.jpg",
-            "title": "Master Student",
-            "department": "Department of Information Management",
-            "expertise": [],
-            "detailUrl": "#"
-          },
-          {
             "name": "Hsin-Ping Wu (吳心平)",
-            "image": "CMaster/grade1/吳心平Aimee.jpg",
+            "image": "CMaster/grade2/吳心平Aimee.jpg",
             "title": "Master Student",
             "department": "Department of Information Management",
             "expertise": [],
@@ -222,7 +206,15 @@
           },
           {
             "name": "Chih-Jung Li (李芝瑢)",
-            "image": "CMaster/grade1/李芝瑢Julie.jpg",
+            "image": "CMaster/grade2/李芝瑢Julie.jpg",
+            "title": "Master Student",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Lucie Peng (彭琦崴)",
+            "image": "CMaster/grade2/彭琦崴Lucie.jpg",
             "title": "Master Student",
             "department": "Department of Information Management",
             "expertise": [],
@@ -291,6 +283,22 @@
       {
         "title": "Past Members",
         "members": [
+          {
+            "name": "Hui-Wen Cheng (鄭惠文)",
+            "image": "Alumni/鄭惠文Cheng_Hui_Wen.jpg",
+            "title": "Alumni (Class of 2026)",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
+          {
+            "name": "Angelson Chen (陳秉謙)",
+            "image": "Alumni/Angelson 陳秉謙.jpg",
+            "title": "Alumni (Class of 2026)",
+            "department": "Department of Information Management",
+            "expertise": [],
+            "detailUrl": "#"
+          },
            {
              "name": "Yi-Chen Chen",
              "image": "somebody.jpg",
